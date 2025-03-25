@@ -18,9 +18,7 @@ Doelstellingen van dit project zijn het verbeteren van de communicatiestructuur 
 ## Methodologie
 Onze methodologie bestaat uit drie fasen: Discovery, Definition en Prototype Testing.  
 - **Tijdlijn:**  
-  - **Maand 1-2:** Verzamelen van kwalitatieve data via enquêtes en interviews (Discovery).
-  - **Maand 3-4:** Analyseren van data en definiëren van persona's en gebruiksscenario's (Definition).
-  - **Maand 5-6:** Ontwikkelen van een low-fidelity prototype en uitvoeren van gebruikerstesten (Prototype Testing).  
+  > To be written
 - **Activiteiten:** Data-analyse, literatuurstudie, conceptontwikkeling en gebruikersinterviews.  
 Zie onderstaande tijdlijn (afbeelding) voor een visuele weergave van onze planning.
 
