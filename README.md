@@ -11,7 +11,10 @@ Een slimme GPS voor motorrijders die groepscommunicatie vergemakkelijkt en emoti
 ## Samenvatting
 Tijdens groepsritten op de motor ontstaan er geregeld communicatieproblemen, zeker bij onverwachte situaties zoals wegveranderingen, tankbeurten of stress. Met dit project willen we dit aanpakken door een slim GPS-systeem te ontwerpen dat via eenvoudige input en output (zoals knoppen en licht- of geluidsignalen) de communicatie stroomlijnt. Via een Emotiebit kunnen ook emoties of stresssignalen in kaart gebracht worden. In de discoveryfase onderzochten we voorkeuren rond communicatievormen, outputtypes en routecoördinatie. Het resultaat is een modulair concept dat compatibel is met bestaande systemen (zoals intercom) en optioneel ook emotie-informatie kan verwerken.  
 
-*Hero image/render: zie Beeline x Waze conceptafbeelding onderaan*  
+*Hero image/render:*
+<p align=center>  
+  <img src="fotos/image.png") alt=testlocatie width=50% />
+</p> 
 
 ---
 
