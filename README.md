@@ -21,26 +21,28 @@ Tijdens groepsritten op de motor ontstaan er geregeld communicatieproblemen, zek
 ## Introductie
 Communicatie tussen motorrijders in groep is vaak beperkt tot handgebaren en korte intercomgesprekken. Dit leidt tot frustraties en onduidelijkheden, zeker tijdens langere ritten of bij stresssituaties. Ons doel is om de communicatie en beleving tijdens groepsritten te verbeteren, met speciale aandacht voor intuïtieve input/outputoplossingen en emotieherkenning. Hierbij houden we rekening met de complexiteit van motorrijden: handen zijn niet vrij, zichtbaarheid is beperkt en veiligheid staat centraal.
 
-We baseren ons o.a. op inzichten uit gebruikersonderzoek, literatuur over rijdersgedrag en technologie zoals de Emotiebit, die biofeedbackdata kan geven zoals hartslag of galvanische huidrespons (GSR). ([Scribbr, 2023](https://www.scribbr.nl/apa-stijl))
+We baseren ons o.a. op inzichten uit gebruikersonderzoek, literatuur over rijdersgedrag en technologie zoals de Emotiebit, die biofeedbackdata kan geven zoals hartslag of galvanische huidrespons (GSR). 
 
 ---
 
 ## Methodologie
-In semester 1 werkten we volgens een exploratief en gebruiksgericht traject:
+Door een zeer late pivot vanuit een ander project werd dit project uitgevoerd in een tijdsspan van 9 weken. Hierdoor kon het vooropgelegde stappenplan van het vak project gebruiksgericht ontwerp niet gevolgd worden. Er zal dus gebruik gemaakt worden van AI om documentatie en mogelijke elektronica vooruit te helpen, het gebruik van AI wordt telkens nagelezen en kritisch bekeken.
+
+De 9 weken werden als volgt verdeeld:
 
 - **Fase 1: Desk Research & Enquête**  
   → Reddit-enquête bij motorrijders (20+ antwoorden)
 
-- **Fase 2: Interviews (Wave 1 & 2)**  
+- **Fase 2: Interviews (Wave 1, 2 & 3)**  
   → Diepte-interviews met rijders rond frustraties, communicatiegewoontes, routeplanning en beleving
 
 - **Fase 3: Analyse & Synthese**  
   → Persona's, scenario’s, design criteria
 
 - **Visuale tijdslijn (voorbeeld):**  
-  - Week 1-2: Vragenlijstanalyse
-  - Week 3-4: Interviews
-  - Week 5-6: Synthese en definities van eisen
+  - Week 1: Vragenlijstanalyse
+  - Week 2 - paasvakantie: Interviews en analyse
+  - Paasvakantie - week 9: Develop fase
 
 ---
 
