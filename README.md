@@ -9,7 +9,7 @@ Een slimme GPS voor motorrijders die groepscommunicatie vergemakkelijkt en emoti
 ---
 
 ## Samenvatting
-Tijdens groepsritten op de motor ontstaan er geregeld communicatieproblemen, zeker bij onverwachte situaties zoals wegveranderingen, tankbeurten of stress. Met dit project willen we dit aanpakken door een slim GPS-systeem te ontwerpen dat via eenvoudige input en output (zoals knoppen en licht- of geluidsignalen) de communicatie stroomlijnt. Via een Emotiebit kunnen ook emoties of stresssignalen in kaart gebracht worden. In de discoveryfase onderzochten we voorkeuren rond communicatievormen, outputtypes en routecoördinatie. Het resultaat is een modulair concept dat compatibel is met bestaande systemen (zoals intercom) en optioneel ook emotie-informatie kan verwerken.  
+Tijdens groepsritten op de motor of brommer ontstaan er geregeld communicatieproblemen, zeker bij onverwachte situaties zoals wegveranderingen, tankbeurten of stress. Met dit project willen we dit aanpakken door een slim GPS-systeem te ontwerpen dat via eenvoudige input en output (zoals knoppen en licht- of geluidsignalen) de communicatie stroomlijnt. Via bepaalde sensoren kunnen ook emoties of stresssignalen in kaart gebracht worden. In de discovery fase onderzochten we voorkeuren rond communicatievormen, outputtypes en routecoördinatie. Hierna worden de design requirements opgesteld om in de develop fase de uitgekomen eisen en wensen tot een finaal concept/ product uit te werken.
 
 *Hero image/render:*
 <p align=center>  
@@ -26,7 +26,7 @@ We baseren ons o.a. op inzichten uit gebruikersonderzoek, literatuur over rijder
 ---
 
 ## Methodologie
-Door een zeer late pivot vanuit een ander project werd dit project uitgevoerd in een tijdsspan van 9 weken. Hierdoor kon het vooropgelegde stappenplan van het vak project gebruiksgericht ontwerp niet gevolgd worden. Er zal dus gebruik gemaakt worden van AI om documentatie en mogelijke elektronica vooruit te helpen, het gebruik van AI wordt telkens nagelezen en kritisch bekeken.
+Door een zeer late pivot vanuit een ander project werd dit project uitgevoerd in een tijdsspan van 9 weken. Hierdoor kon het vooropgelegde stappenplan van het vak project gebruiksgericht ontwerp niet gevolgd worden. Er zal dus gebruik gemaakt worden van AI om orde en structuur, renders zoals hierboven en mogelijke elektronica vooruit te helpen, het gebruik van AI wordt telkens nagelezen en kritisch bekeken.
 
 De 9 weken werden als volgt verdeeld:
 
@@ -39,10 +39,17 @@ De 9 weken werden als volgt verdeeld:
 - **Fase 3: Analyse & Synthese**  
   → Persona's, scenario’s, design criteria
 
+- **Fase 4: Develop Fase**
+  → Looks, informatie hyrarchie, uitwerken elektronica, ...
+
+- **Fase 5: Delivery Fase**
+  → Afwerking, video
+
 - **Visuale tijdslijn (voorbeeld):**  
   - Week 1: Vragenlijstanalyse
-  - Week 2 - paasvakantie: Interviews en analyse
-  - Paasvakantie - week 9: Develop fase
+  - Week 2 - paasvakantie (week 3-5): Interviews en analyse
+  - Paasvakantie - week 8: Develop fase
+  - Week 9: Delivery fase
 
 ---
 
@@ -54,21 +61,27 @@ De 9 weken werden als volgt verdeeld:
 
 ### Materiaal & methoden
 - Google Form vragenlijst (via Reddit)
-- Interviewprotocol Wave 1 & 2
+- Literatuurstudie Wave 1
+- Interviewprotocol Wave 2 & 3
 - Persona-ontwikkeling
-- Visuele samenvattingen (affiches & synthese)
+- Online whiteboard Miro
 
 ### Resultaten
 - Veelgebruikte communicatie: intercom, handgebaren, GPX-route
-- Frustraties: slechte koppeling, onduidelijkheid, stress door misverstanden
+- Frustraties: slechte koppeling, onduidelijkheid, stress door misverstanden, niet iedereen heeft com-systeem/ kent de handgebaren
 - Visuele output (licht) is nuttig, maar beperkt bruikbaar bij zonlicht
-- Geluid (via bestaande intercom) geniet voorkeur
+- Schermen zijn herkenbaar en kunnen makkelijk veschillende informatie delen
+- Geluid kan handig zijn als de persoon over de nodige hardware bezit
 - Trillingen worden negatief beoordeeld
+- Inputmethodes zoals touchscreen met weinig tactiele feedback vragen te veel andacht tijdens het rijden
+- Een glove die handgebaren opvangt kan leuk en "voor de hand liggend zijn" qua gebruik, maar heeft technisch wat moeilijkheden
 
 ### Conclusies & implicaties
 - Keep it simple: fysieke knoppen en beperkte outputtypes hebben voorkeur
 - Emotieherkenning moet optioneel zijn en niet dominant
 - Route moet voor iedereen zichtbaar zijn of gestuurd kunnen worden
+- Geef de gebruiker een optie om een directe route naar de groep te tonen als hij verdwaald geraakt
+- Maak het mogelijk om te koppelen met bestaande com systemen voor auditieve feedback of meldingen
 - Motorrijders willen autonomie behouden, maar ook comfort en duidelijkheid
 
 ---
@@ -81,8 +94,8 @@ De 9 weken werden als volgt verdeeld:
 ## Bill of materials
 - GPS-module met visueel scherm of LED-feedback
 - Emotiebit of compatibele biofeedbacksensor
-- Drukknoppen (input)
-- Bevestigingselementen (stuur, kleding)
+- Drukknoppen en/of potentiometers (input)
+- Bevestigingselementen (stuur)
 - Communicatiemodule (voor koppeling met intercom)
 
 ---
@@ -100,8 +113,9 @@ Het project toonde al in een vroege fase dat veel rijders technologie waarderen 
 ---
 
 ## Bijlagen
-- Interviewprotocol Wave 1 & 2
 - Vragenlijstresultaten
+- Literatuurstudie Wave 1
+- Interviewprotocol en raport Wave 2 & 3
 - Persona: “Thomas – de weekendrijder”
-- Synthese affichemateriaal
+- Design requirements
 
