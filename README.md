@@ -1,5 +1,4 @@
-# GitHub-documentatie – Smart Mood GPS
-
+# Revup
 *Omschrijving van je concept in 1 zin:*  
 Een slimme GPS voor motorrijders die groepscommunicatie vergemakkelijkt en emotionele signalen kan vertalen naar acties zoals pauzes of routeaanpassingen.
 
