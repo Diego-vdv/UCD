@@ -85,8 +85,45 @@ De 9 weken werden als volgt verdeeld:
 
 ---
 
-## Definition
-(wordt verder ingevuld na testfases met mockups en use cases)
+##Definition
+- Doelstellingen (cfr. methodologie)
+- Materiaal en methoden
+- Resultaten
+- Conclusies en implicaties (design requirements en beslissingen)
+
+---
+
+##Develop 1: [focus]
+- Doelstellingen (cfr. methodologie)
+- Materiaal en methoden
+- Resultaten
+- Conclusies en implicaties (design requirements en beslissingen)
+
+---
+
+##Develop 2: [focus]
+- Doelstellingen (cfr. methodologie)
+- Materiaal en methoden
+- Resultaten
+- Conclusies en implicaties (design requirements en beslissingen)
+
+---
+
+##Conclusie
+- Slotbevindingen
+- Tabel met de finale design requirements
+
+---
+
+##Kritische reflectie
+- Over SEM1 en SEM2
+- Over zowel het ontwerp zelf, de methodologie, de uitgevoerde testen en analyses, de gemaakte prototypes, als openstaande onderzoeksvragen (future research should focus on …)
+  
+---
+
+##Technische beschrijving
+- Dit vervangt de bill of materials en omvat zowel de finale bill of materials (verwijs ook naar webpagina’s voor componenten en voeg eventueel ook de kostprijs toe), code en build instructions.
+- Hiermee moet iemand die wil verderweren op je product genoeg hebben om dit na te bouwen.
 
 ---
 
