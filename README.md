@@ -162,7 +162,7 @@ Rechthoekige knoppen werden door de meeste respondenten het snelst herkend, dank
 
 #### Observaties Output
 
-...
+LED's en gekleurde symbolen scoorden het best, maar elk om een andere reden. LED's kunnen feller en sterker een melding tonen dan symbolen op een scherm maar kunnen niet zo veel info geven zonder context, symbolen daarintegen vallen minder hard op maar zijn makkelijker om te begrijpen. Ook de kleur van de meldingen speelt een rol; bij LED's is groen licht moeilijker op te merken dan rood of geel licht, op een scherm is blauw licht wat moeilijker op te merken.
 
 > [!Note]
 > Hier afbeelding toevoegen van ranking resultaat
@@ -172,7 +172,7 @@ Rechthoekige knoppen werden door de meeste respondenten het snelst herkend, dank
 - Knopvorm: Vierkant/ rechthoekig, breed oppervlak, duidelijke feedback (klik/veer)
 - Interface: Symbolen met vaste kleurcode, vermijd overmatige tekst, led lichtjes die belangrijke meldingen rapper en feller tonen.
 - Fysieke ergonomie: Knoppen boven elkaar uitlijnen om beweging en reach van de duim te volgen
-- Cognitieve ergonomie: Beperk visuele input, vermijd dubbelzinnige signalen, geef de knoppen een eigen identiteit (kleur, textuur, …)
+- Cognitieve ergonomie: Beperk visuele input, vermijd dubbelzinnige signalen, geef de knoppen een eigen identiteit (kleur, textuur, …), vermijd een donkerblauwe kleur bij meldingen.
 
 ---
 
