@@ -160,6 +160,11 @@ De testopzet werd geoptimaliseerd voor zowel fysieke als cognitieve evaluatie en
 
 Rechthoekige knoppen werden door de meeste respondenten het snelst herkend, dankzij hun duidelijke vorm. Een voelbare klik werd als essentieel beschouwd voor betrouwbare feedback tijdens het rijden. Kleine of vlakke knoppen bleken minder geschikt, vooral in combinatie met motorhandschoenen. De voorkeur ging uit naar een verticale plaatsing van de knoppen, zodat de duimbeweging natuurlijk en intuïtief blijft.
 
+<p align=center>  
+  <img src="fotos/Ranking_knoppen.png") alt=testlocatie width=50% />
+</p> 
+
+
 #### Observaties Output
 
 LED's en gekleurde symbolen scoorden het best, maar elk om een andere reden. LED's kunnen feller en sterker een melding tonen dan symbolen op een scherm maar kunnen niet zo veel info geven zonder context, symbolen daarintegen vallen minder hard op maar zijn makkelijker om te begrijpen. Ook de kleur van de meldingen speelt een rol; bij LED's is groen licht moeilijker op te merken dan rood of geel licht, op een scherm is blauw licht wat moeilijker op te merken.
