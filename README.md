@@ -12,11 +12,6 @@ Een slimme GPS voor motorrijders die groepscommunicatie vergemakkelijkt en emoti
 
 Tijdens groepsritten op de motor of brommer ontstaan er geregeld communicatieproblemen, zeker bij onverwachte situaties zoals wegveranderingen, tankbeurten of stress. Met dit project willen we dit aanpakken door een slim GPS-systeem te ontwerpen dat via eenvoudige input en output (zoals knoppen en licht- of geluidsignalen) de communicatie stroomlijnt. In de discovery fase onderzochten we voorkeuren rond communicatievormen, outputtypes en routecoördinatie. Hierna worden de design requirements opgesteld om in de develop fase de uitgekomen eisen en wensen tot een finaal concept/ product uit te werken.
 
-*Hero image/render:*
-<p align=center>  
-  <img src="fotos/image.png") alt=testlocatie width=50% />
-</p> 
-
 ---
 
 ## Probleemstelling
@@ -279,16 +274,19 @@ Het RevUp-systeem biedt een tastbare meerwaarde voor het verbeteren van communic
 ---
 
 ## Technische beschrijving
+
+Het scherm is cirkelvormig en hangt met een korte arm aan het stuur vast, rond het scherm zit een ledring voor extra visuele feedback. Er zijn ook knoppen die waarschijnlijk aan de linkerkant van het stuur hangen maar de mogelijkheid hebben om door de gebruiker zelf geplaatst te worden. De knoppen verschillen niet veel van de render uit develop 2, maar bevatten een extra conformatie knop aan de bovenkant.
+
+<p align=center>  
+  <img src="fotos/image.png") alt=testlocatie width=50% />
+</p> 
+
 |Naam Component|Hoe te verkrijgen|
 |----|---|
 |GPS-module met visueel scherm of LED-feedback| [scherm](https://benl.rs-online.com/web/p/shields-for-arduino/2686967?matchtype=&pla-332297889548&gad_campaignid=21302633171) en [GPS](https://www.amazon.com.be/-/en/Aideepen-Position-Module-Antenna-Controller/dp/B08CZSL193/ref=asc_df_B08CZSL193?mcid=8d9b5cb1884e3ab5835972e6c94a0470&hvadid=712673940446&hvpos=&hvnetw=g&hvrand=6716657762156146757&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9195761&hvtargid=pla-967402262363&psc=1&language=en_GB)|
 |Drukknoppen (input)| 3D Printen en [Kopen](https://www.hobbyelectronica.nl/product/tactile-drukknop-25-stuks-met-cap/?gad_campaignid=17423797364)|
 |Bevestigingselementen (stuur)| 3D Printen|
 |Communicatiemodule (voor koppeling met intercom)|...|
-
-
-- Hiermee moet iemand die wil verderweren op je product genoeg hebben om dit na te bouwen.
-
 
 ---
 
