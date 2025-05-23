@@ -76,7 +76,7 @@ De 9 weken werden als volgt verdeeld:
 
 ### Resultaten
 
-Tijdens groepsritten maken motorrijders doorgaans gebruik van intercomsystemen, handgebaren en vooraf gedeelde GPX-routes om met elkaar te communiceren. Deze strategieën blijken in de praktijk niet altijd toereikend: miscommunicatie ontstaat wanneer koppelingen uitvallen of bepaalde gebaren niet universeel gekend zijn binnen de groep. Uit het gebruikersonderzoek blijkt dat visuele output, zoals lichtsignalen, als nuttig wordt ervaren, hoewel de leesbaarheid hiervan sterk afneemt bij direct zonlicht. Schermen worden daarentegen als betrouwbaar en multifunctioneel beschouwd om route-informatie of waarschuwingen over te brengen. Auditieve signalen, zoals meldingen via intercom, zijn eveneens bruikbaar mits compatibele hardware beschikbaar is. Trillingsfeedback werd unaniem als ineffectief beschouwd, voornamelijk door de interferentie met trillingen van de motor zelf.
+Tijdens groepsritten maken motorrijders doorgaans gebruik van intercomsystemen, handgebaren en vooraf gedeelde GPS-routes om met elkaar te communiceren. Deze strategieën blijken in de praktijk niet altijd toereikend: miscommunicatie ontstaat wanneer koppelingen uitvallen of bepaalde gebaren niet universeel gekend zijn binnen de groep. Uit het gebruikersonderzoek blijkt dat visuele output, zoals lichtsignalen, als nuttig wordt ervaren, hoewel de leesbaarheid hiervan sterk afneemt bij direct zonlicht. Schermen worden daarentegen als betrouwbaar en multifunctioneel beschouwd om route-informatie of waarschuwingen over te brengen. Auditieve signalen, zoals meldingen via intercom, zijn eveneens bruikbaar mits compatibele hardware beschikbaar is. Trillingsfeedback werd unaniem als ineffectief beschouwd, voornamelijk door de interferentie met trillingen van de motor zelf.
 
 Wat betreft invoermethoden werd vastgesteld dat touchscreens in deze context suboptimaal zijn: ze bieden onvoldoende tactiele feedback en vereisen visuele aandacht, wat afleidend en gevaarlijk is tijdens het rijden. Een potentieel alternatief zoals een gesture-detecterende glove werd positief geëvalueerd op vlak van gebruiksintentie, maar blijkt voorlopig nog technisch complex en onbetrouwbaar in realistische rijomstandigheden.
 
@@ -163,11 +163,13 @@ Rechthoekige knoppen werden door de meeste respondenten het snelst herkend, dank
   <img src="fotos/Ranking_knoppen.png") alt=testlocatie width=75% />
 </p> 
 
-
 #### Observaties Output
 
 LED's en gekleurde symbolen scoorden het best, maar elk om een andere reden. LED's kunnen feller en sterker een melding tonen dan symbolen op een scherm maar kunnen niet zo veel info geven zonder context, symbolen daarintegen vallen minder hard op maar zijn makkelijker om te begrijpen. Ook de kleur van de meldingen speelt een rol; bij LED's is groen licht moeilijker op te merken dan rood of geel licht, op een scherm is blauw licht wat moeilijker op te merken.
 
+<p align=center>  
+  <img src="fotos/dev1_output_results.png") alt=testlocatie width=75% />
+</p> 
 
 ### Conclusies en implicaties (design requirements en beslissingen)
 
