@@ -170,7 +170,7 @@ LED's en gekleurde symbolen scoorden het best, maar elk om een andere reden. LED
 ### Conclusies en implicaties (design requirements en beslissingen)
 
 - Knopvorm: Vierkant/ rechthoekig, breed oppervlak, duidelijke feedback (klik/veer)
-- Interface: Symbolen met vaste kleurcode, vermijd overmatige tekst, led lichtjes die belangrijke meldingen rapper en feller tonen.
+- Interface: Symbolen met vaste kleurcode, vermijd overbodige tekst, toevoegen van LED's om belangrijke meldingen rapper op te merken.
 - Fysieke ergonomie: Knoppen boven elkaar uitlijnen om beweging en reach van de duim te volgen
 - Cognitieve ergonomie: Beperk visuele input, vermijd dubbelzinnige signalen, geef de knoppen een eigen identiteit (kleur, textuur, …), vermijd een donkerblauwe kleur bij meldingen.
 
