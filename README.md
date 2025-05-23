@@ -224,6 +224,7 @@ Valideren van het finale prototype op gebruiksvriendelijkheid, plaatsing, en int
 <p align=center>  
   <img src="fotos/foto_moto_opstelling.jpg") alt=testlocatie width=50% />
 </p> 
+
 ---
 
 ## Conclusie
