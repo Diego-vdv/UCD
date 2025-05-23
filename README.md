@@ -243,12 +243,12 @@ Doordat we een zeer kort designtraject afgelopen hebben zijn er dingen die we no
 ---
 
 ## Technische beschrijving
-- Dit vervangt de bill of materials en omvat zowel de finale bill of materials (verwijs ook naar webpagina’s voor componenten en voeg eventueel ook de kostprijs toe), code en build instructions.
-- GPS-module met visueel scherm of LED-feedback
-- Emotiebit of compatibele biofeedbacksensor
-- Drukknoppen en/of potentiometers (input)
-- Bevestigingselementen (stuur)
-- Communicatiemodule (voor koppeling met intercom)
+|Naam Component|Hoe te verkrijgen|
+|----|---|
+|GPS-module met visueel scherm of LED-feedback| [scherm](https://benl.rs-online.com/web/p/shields-for-arduino/2686967?matchtype=&pla-332297889548&gad_campaignid=21302633171) en [GPS](https://www.amazon.com.be/-/en/Aideepen-Position-Module-Antenna-Controller/dp/B08CZSL193/ref=asc_df_B08CZSL193?mcid=8d9b5cb1884e3ab5835972e6c94a0470&hvadid=712673940446&hvpos=&hvnetw=g&hvrand=6716657762156146757&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9195761&hvtargid=pla-967402262363&psc=1&language=en_GB)|
+|Drukknoppen (input)| 3D Printen en [Kopen](https://www.hobbyelectronica.nl/product/tactile-drukknop-25-stuks-met-cap/?gad_campaignid=17423797364)|
+|Bevestigingselementen (stuur)| 3D Printen|
+|Communicatiemodule (voor koppeling met intercom)|...|
 
 
 - Hiermee moet iemand die wil verderweren op je product genoeg hebben om dit na te bouwen.
