@@ -23,12 +23,11 @@ Tijdens groepsritten op de motor of brommer ontstaan er geregeld communicatiepro
 
 ## Probleemstelling
 
->^[!Note]
->aanpassen
+Motorrijders in groep communiceren doorgaans via handgebaren of intercomsystemen. Deze methodes zijn echter niet altijd betrouwbaar, zeker niet in omstandigheden waar snelle respons, duidelijkheid of emotionele context vereist zijn. Het ontbreken van effectieve communicatie leidt regelmatig tot frustraties, onveiligheid en desorganisatie binnen de groep.
 
-Communicatie tussen motorrijders in groep is vaak beperkt tot handgebaren en korte intercomgesprekken. Dit leidt tot frustraties en onduidelijkheden, zeker tijdens langere ritten of bij stresssituaties. Ons doel is om de communicatie en beleving tijdens groepsritten te verbeteren, met speciale aandacht voor intuïtieve input/outputoplossingen en emotieherkenning. Hierbij houden we rekening met de complexiteit van motorrijden: handen zijn niet vrij, zichtbaarheid is beperkt en veiligheid staat centraal.
+Daarbij is er momenteel geen systeem dat emotionele signalen detecteert en daar actief op inspeelt. Stress, vermoeidheid of onzekerheid blijven onopgemerkt, met alle gevolgen van dien voor de veiligheid en rijervaring. Dit probleem wordt versterkt door de context van het motorrijden zelf: beperkte handvrijheid, hoge snelheden en visuele afleiding beperken de interactiemogelijkheden.
 
-We baseren ons o.a. op inzichten uit gebruikersonderzoek, literatuur over rijdersgedrag en technologie zoals de Emotiebit, die biofeedbackdata kan geven zoals hartslag of galvanische huidrespons (GSR). 
+RevUp biedt hierop een antwoord via een combinatie van tactiele input (stuurknoppen), visuele en auditieve feedback, en optionele emotiedetectie via biofeedbacksensoren. Het systeem ondersteunt niet alleen communicatie over praktische zaken (bv. tanken, pauzes, gevaren), maar maakt het ook mogelijk om onzichtbare signalen zoals stress te detecteren en hier gepast op te reageren.
 
 ---
 
@@ -78,14 +77,9 @@ De 9 weken werden als volgt verdeeld:
 
 ### Resultaten
 
-- Veelgebruikte communicatie: intercom, handgebaren, GPX-route
-- Frustraties: slechte koppeling, onduidelijkheid, stress door misverstanden, niet iedereen heeft com-systeem/ kent de handgebaren
-- Visuele output (licht) is nuttig, maar beperkt bruikbaar bij zonlicht
-- Schermen zijn herkenbaar en kunnen makkelijk veschillende informatie delen
-- Geluid kan handig zijn als de persoon over de nodige hardware bezit
-- Trillingen worden negatief beoordeeld
-- Inputmethodes zoals touchscreen met weinig tactiele feedback vragen te veel andacht tijdens het rijden
-- Een glove die handgebaren opvangt kan leuk en "voor de hand liggend zijn" qua gebruik, maar heeft technisch wat moeilijkheden
+Tijdens groepsritten maken motorrijders doorgaans gebruik van intercomsystemen, handgebaren en vooraf gedeelde GPX-routes om met elkaar te communiceren. Deze strategieën blijken in de praktijk niet altijd toereikend: miscommunicatie ontstaat wanneer koppelingen uitvallen of bepaalde gebaren niet universeel gekend zijn binnen de groep. Uit het gebruikersonderzoek blijkt dat visuele output, zoals lichtsignalen, als nuttig wordt ervaren, hoewel de leesbaarheid hiervan sterk afneemt bij direct zonlicht. Schermen worden daarentegen als betrouwbaar en multifunctioneel beschouwd om route-informatie of waarschuwingen over te brengen. Auditieve signalen, zoals meldingen via intercom, zijn eveneens bruikbaar mits compatibele hardware beschikbaar is. Trillingsfeedback werd unaniem als ineffectief beschouwd, voornamelijk door de interferentie met trillingen van de motor zelf.
+
+Wat betreft invoermethoden werd vastgesteld dat touchscreens in deze context suboptimaal zijn: ze bieden onvoldoende tactiele feedback en vereisen visuele aandacht, wat afleidend en gevaarlijk is tijdens het rijden. Een potentieel alternatief zoals een gesture-detecterende glove werd positief geëvalueerd op vlak van gebruiksintentie, maar blijkt voorlopig nog technisch complex en onbetrouwbaar in realistische rijomstandigheden.
 
 
 ### Conclusies & implicaties
@@ -117,21 +111,20 @@ De 9 weken werden als volgt verdeeld:
 
 ### Resultaten
 
-- Gebruiksgemak vereist fysieke knoppen boven touchscreens
-- Visuele feedback (symbolen + kleur) primeert op tekst of geluid
-- Autonomie van de gebruiker blijft belangrijk
-– notificaties moeten niet opdringerig zijn
-- Groepscoördinatie via zichtbare route en "volg kapitein"-functie blijkt waardevol
+De resultaten van het gebruikersonderzoek en de bijhorende prototype-evaluaties tonen aan dat fysieke knoppen een duidelijke voorkeur genieten ten opzichte van touchscreens, voornamelijk wegens hun intuïtieve karakter, de minimale visuele belasting tijdens het rijden en hun geschiktheid voor gebruik met motorhandschoenen. Visuele feedback scoort het hoogst wanneer die gebaseerd is op duidelijke, eenduidige symbolen in combinatie met kleurgebruik. Deze combinatie leidt tot snellere herkenning en een betere informatieoverdracht dan tekstuele of auditieve meldingen alleen.
 
-- Emotieherkenning enkel als optioneel detectiesysteem met manuele bevestiging
-  
+Gebruikers gaven tevens aan hun autonomie te willen behouden; notificaties moeten niet dominant aanwezig zijn, maar eerder subtiel en informatief. In het kader van groepscoördinatie werd de mogelijkheid om de route van de groepsleider te kunnen volgen als bijzonder nuttig ervaren. Dit draagt bij aan een gevoel van veiligheid en verbondenheid binnen de groep.
+
+Tijdens de interviews werd herhaaldelijk twijfel geuit over het gebruik van sensoren voor emotieherkenning. Gebruikers gaven aan weinig vertrouwen te hebben in de betrouwbaarheid van zulke systemen, vooral wat betreft de interpretatie van stress- of emotionele signalen in een realistische rijcontext. Op basis van deze terugkoppeling werd besloten om af te zien van automatische sensordetectie. In plaats daarvan wordt er gekozen voor manuele inputopties, waarbij de rijder zelf aangeeft wanneer er nood is aan een pauze of andere actie. Dit garandeert meer controle, transparantie en vertrouwen in het systeem.
+
 ### Conclusies en implicaties (design requirements en beslissingen)
+  
+- Knoppen moeten duidelijk voelbaar zijn, met klikfeedback en geschikt voor gebruik met motorhandschoenen.
+- Ze worden het best geplaatst aan de linkerkant van het stuur voor gemakkelijke bediening.
+- De interface moet eenvoudige symbolen en contrastrijke kleuren gebruiken voor leesbaarheid.
+- Emotiedetectie via sensoren is uitgesloten; het systeem gebruikt enkel manuele input.
+- Compatibiliteit met bestaande intercomsystemen is vereist voor auditieve meldingen.
 
-- Knoppen moeten groot, duidelijk en haptisch zijn
-- Plaatsing aan de linkerstuurzijde is optimaal voor veiligheid en bereikbaarheid
-- De interface moet eenvoudig, leesbaar en universeel zijn qua iconografie
-- Biofeedback mag niet centraal staan, maar moet als aanvullende comfortlaag functioneren
-- Compatibiliteit met bestaande intercomsystemen is essentieel
 
 ---
 
