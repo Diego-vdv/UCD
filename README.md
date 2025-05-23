@@ -156,13 +156,11 @@ De testopzet werd geoptimaliseerd voor zowel fysieke als cognitieve evaluatie en
 #### Prototypes
 
 *Knoppen:*
-
 <p align=center>  
   <img src="fotos/dev1_knoppen_prototype.png") alt=testlocatie width=75% />
 </p> 
 
 *Output:*
-
 <p align=center>  
   <img src="fotos/dev1_output_prototype.png") alt=testlocatie width=75% />
 </p> 
@@ -206,6 +204,11 @@ Valideren van het finale prototype op gebruiksvriendelijkheid, plaatsing, en int
 - Interviews
 - Plaatsingsoefening (knoppen en scherm)
 - BERT-evaluatie uiterlijk en gebruik
+
+*prototype:*
+<p align=center>  
+  <img src="fotos/dev2_prototypes.png") alt=testlocatie width=50% />
+</p> 
 
 ### Resultaten
 
