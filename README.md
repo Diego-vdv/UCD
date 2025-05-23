@@ -226,7 +226,9 @@ Valideren van het finale prototype op gebruiksvriendelijkheid, plaatsing, en int
 ---
 
 ## Conclusie
-- Slotbevindingen
+
+Het RevUp-systeem biedt een tastbare meerwaarde voor het verbeteren van communicatie en veiligheid tijdens groepsritten met de motor. Door gebruik te maken van fysieke stuurknoppen, duidelijke visuele feedback en compatibiliteit met bestaande intercomsystemen, wordt het voor rijders mogelijk om snel en intuïtief cruciale informatie met elkaar te delen. De bewuste keuze om emotieherkenning enkel manueel te integreren garandeert de autonomie en het vertrouwen van de gebruiker. Het project toont aan dat een mensgericht ontwerp, opgebouwd uit iteratief gebruikersonderzoek, kan leiden tot een systeem dat zowel technisch uitvoerbaar als gebruiksvriendelijk is. RevUp vormt daarmee een sterke basis voor verdere ontwikkeling en integratie van slimmere rijhulpsystemen binnen de context van motorgroepen.
+
 - Tabel met de finale design requirements
 
 ---
@@ -242,16 +244,16 @@ Doordat we een zeer kort designtraject afgelopen hebben zijn er dingen die we no
 
 ## Technische beschrijving
 - Dit vervangt de bill of materials en omvat zowel de finale bill of materials (verwijs ook naar webpagina’s voor componenten en voeg eventueel ook de kostprijs toe), code en build instructions.
-- Hiermee moet iemand die wil verderweren op je product genoeg hebben om dit na te bouwen.
-
----
-
-## Bill of materials
 - GPS-module met visueel scherm of LED-feedback
 - Emotiebit of compatibele biofeedbacksensor
 - Drukknoppen en/of potentiometers (input)
 - Bevestigingselementen (stuur)
 - Communicatiemodule (voor koppeling met intercom)
+
+
+- Hiermee moet iemand die wil verderweren op je product genoeg hebben om dit na te bouwen.
+
+
 
 ---
 
