@@ -310,6 +310,7 @@ Het project toonde al in een vroege fase dat veel rijders technologie waarderen 
 - Doe, J. (2023). *Designing Interfaces for Riders*. Journal of Transport UX.
 - Smith, K. (2022). *Smart Navigation in Motion*. Mobility Review.
 - Scribbr. (2023). APA-stijl. https://www.scribbr.nl/apa-stijl
+- [stock_motorcycle_handlebar_measurements_cruisers.pdf](https://github.com/Diego-vdv/UCD/blob/main/files/Develop%201/Varia/stock_motorcycle_handlebar_measurements_cruisers.pdf)
 
 ---
 
