@@ -86,26 +86,58 @@ De 9 weken werden als volgt verdeeld:
 ---
 
 ## Definition
-- Doelstellingen (cfr. methodologie)
-- Materiaal en methoden
-- Resultaten
-- Conclusies en implicaties (design requirements en beslissingen)
+
+### Doelstellingen
+
+- Vaststellen van kernfunctionaliteiten en vereisten voor groepscommunicatie op de motor
+- Integratie van emotiedetectie als niet-intrusieve aanvulling op communicatie
+- Definiëren van input- en outputvoorkeuren op basis van gebruikersdata
+
+### Materiaal en methoden
+
+- Analyse van enquête en interviewresultaten (Wave 1 t.e.m. 3)
+- Persona-ontwikkeling en scenariobouw
+- Synthese van fysieke en cognitieve voorkeuren voor productinteractie
+- Vertaling naar concrete design requirements
+
+### Resultaten
+
+- Gebruiksgemak vereist fysieke knoppen boven touchscreens
+- Visuele feedback (symbolen + kleur) primeert op tekst of geluid
+- Autonomie van de gebruiker blijft belangrijk – notificaties moeten niet opdringerig zijn
+- Emotieherkenning enkel als optioneel detectiesysteem met manuele bevestiging
+- Groepscoördinatie via zichtbare route en "volg kapitein"-functie blijkt waardevol
+
+### Conclusies en implicaties (design requirements en beslissingen)
+- Knoppen moeten groot, duidelijk en haptisch zijn
+- Plaatsing aan de linkerstuurzijde is optimaal voor veiligheid en bereikbaarheid
+- De interface moet eenvoudig, leesbaar en universeel zijn qua iconografie
+- Biofeedback mag niet centraal staan, maar moet als aanvullende comfortlaag functioneren
+- Compatibiliteit met bestaande intercomsystemen is essentieel
 
 ---
 
-## Develop 1: [focus]
-- Doelstellingen (cfr. methodologie)
-- Materiaal en methoden
-- Resultaten
-- Conclusies en implicaties (design requirements en beslissingen)
+## Develop 1: Vormstudie inputknoppen
+
+### Doelstellingen
+
+### Materiaal en methoden
+
+### Resultaten
+
+### Conclusies en implicaties (design requirements en beslissingen)
 
 ---
 
-## Develop 2: [focus]
-- Doelstellingen (cfr. methodologie)
-- Materiaal en methoden
-- Resultaten
-- Conclusies en implicaties (design requirements en beslissingen)
+## Develop 2: Prototype-evaluatie
+
+### Doelstellingen (cfr. methodologie)
+
+### Materiaal en methoden
+
+### Resultaten
+
+### Conclusies en implicaties (design requirements en beslissingen)
 
 ---
 
