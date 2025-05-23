@@ -169,8 +169,6 @@ Rechthoekige knoppen werden door de meeste respondenten het snelst herkend, dank
 
 LED's en gekleurde symbolen scoorden het best, maar elk om een andere reden. LED's kunnen feller en sterker een melding tonen dan symbolen op een scherm maar kunnen niet zo veel info geven zonder context, symbolen daarintegen vallen minder hard op maar zijn makkelijker om te begrijpen. Ook de kleur van de meldingen speelt een rol; bij LED's is groen licht moeilijker op te merken dan rood of geel licht, op een scherm is blauw licht wat moeilijker op te merken.
 
-> [!Note]
-> Hier afbeelding toevoegen van ranking resultaat
 
 ### Conclusies en implicaties (design requirements en beslissingen)
 
