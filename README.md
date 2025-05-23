@@ -75,19 +75,15 @@ De 9 weken werden als volgt verdeeld:
 
 ### Resultaten
 
-Tijdens groepsritten maken motorrijders doorgaans gebruik van intercomsystemen, handgebaren en vooraf gedeelde GPS-routes om met elkaar te communiceren. Deze strategieën blijken in de praktijk niet altijd toereikend: miscommunicatie ontstaat wanneer koppelingen uitvallen of bepaalde gebaren niet universeel gekend zijn binnen de groep. Uit het gebruikersonderzoek blijkt dat visuele output, zoals lichtsignalen, als nuttig wordt ervaren, hoewel de leesbaarheid hiervan sterk afneemt bij direct zonlicht. Schermen worden daarentegen als betrouwbaar en multifunctioneel beschouwd om route-informatie of waarschuwingen over te brengen. Auditieve signalen, zoals meldingen via intercom, zijn eveneens bruikbaar mits compatibele hardware beschikbaar is. Trillingsfeedback werd unaniem als ineffectief beschouwd, voornamelijk door de interferentie met trillingen van de motor zelf.
+Tijdens groepsritten maken motorrijders doorgaans gebruik van intercomsystemen, handgebaren en vooraf gedeelde GPS-routes om met elkaar te communiceren. Deze strategieën blijken in de praktijk niet altijd toereikend: miscommunicatie ontstaat wanneer koppelingen uitvallen of bepaalde gebaren niet universeel gekend zijn binnen de groep. Veel gecommuniceerde onderwerpen zijn momenteel pauzes, tanken, politie, ...
 
-Wat betreft invoermethoden werd vastgesteld dat touchscreens in deze context suboptimaal zijn: ze bieden onvoldoende tactiele feedback en vereisen visuele aandacht, wat afleidend en gevaarlijk is tijdens het rijden. Een potentieel alternatief zoals een gesture-detecterende glove werd positief geëvalueerd op vlak van gebruiksintentie, maar blijkt voorlopig nog technisch complex en onbetrouwbaar in realistische rijomstandigheden.
-
+Emoties kunnen op verschillende manieren opgemeten worden, GSR kan de geleidbaarheid van de huid meten en een hartslagmeter meet zoals de naam zegt je hartslag. Zo kan er automatisch een melding naar de groep gestuurd worden mocht er iets verkeerd lopen of als de gebruiker gestressed is op baan.
 
 ### Conclusies & implicaties
 
-- Keep it simple: fysieke knoppen en beperkte outputtypes hebben voorkeur
-- Emotieherkenning moet optioneel zijn en niet dominant
-- Route moet voor iedereen zichtbaar zijn of gestuurd kunnen worden
-- Geef de gebruiker een optie om een directe route naar de groep te tonen als hij verdwaald geraakt
-- Maak het mogelijk om te koppelen met bestaande com systemen voor auditieve feedback of meldingen
-- Motorrijders willen autonomie behouden, maar ook comfort en duidelijkheid
+- Aandacht op de baan is belangrijk, er wordt dus gestreefd om het design zo intuitief mogelijk te maken
+- Emotieherkenning heeft de mogelijkheid om automatisch bepaalde problemen te communiceren
+- Routebepaling kan aangepast worden in functie van de emoties en noden van de groep
 
 ---
 
@@ -115,13 +111,17 @@ Gebruikers gaven tevens aan hun autonomie te willen behouden; notificaties moete
 Tijdens de interviews werd herhaaldelijk twijfel geuit over het gebruik van sensoren voor emotieherkenning. Gebruikers gaven aan weinig vertrouwen te hebben in de betrouwbaarheid van zulke systemen, vooral wat betreft de interpretatie van stress- of emotionele signalen in een realistische rijcontext. Op basis van deze terugkoppeling werd besloten om af te zien van automatische sensordetectie. In plaats daarvan wordt er gekozen voor manuele inputopties, waarbij de rijder zelf aangeeft wanneer er nood is aan een pauze of andere actie. Dit garandeert meer controle, transparantie en vertrouwen in het systeem.
 
 ### Conclusies en implicaties (design requirements en beslissingen)
-  
-- Knoppen moeten duidelijk voelbaar zijn, met klikfeedback en geschikt voor gebruik met motorhandschoenen.
-- Ze worden het best geplaatst aan de rechterkant van het stuur voor gemakkelijke bediening.
-- De interface moet eenvoudige symbolen en contrastrijke kleuren gebruiken voor leesbaarheid.
-- Emotiedetectie via sensoren is uitgesloten; het systeem gebruikt enkel manuele input.
-- Compatibiliteit met bestaande intercomsystemen is vereist voor auditieve meldingen.
 
+- Motorrijders willen autonomie behouden, maar ook comfort en duidelijkheid
+- Emotiedetectie via sensoren is uitgesloten; het systeem gebruikt enkel manuele input.
+  
+- Knoppen zorgen voor een intuitieve manier om manueel input te geven zonder te veel congitief de gebruiker te belasten.
+- Knoppen moeten duidelijk voelbaar zijn, met klikfeedback en geschikt voor gebruik met motorhandschoenen.
+- Ze worden het best geplaatst aan de rechterkant van het stuur voor gemakkelijke bediening, maar hebben de mogelijkheid om op andere plaatsen te hangen.
+  
+- De interface moet eenvoudige symbolen en contrastrijke kleuren gebruiken voor leesbaarheid.
+- Geef de gebruiker een optie om een directe route naar de groep te tonen als hij verdwaald geraakt
+- Maak het mogelijk om te koppelen met bestaande com systemen voor auditieve feedback of meldingen
 
 ---
 
