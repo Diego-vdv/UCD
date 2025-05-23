@@ -207,7 +207,7 @@ Valideren van het finale prototype op gebruiksvriendelijkheid, plaatsing, en int
 
 *prototype:*
 <p align=center>  
-  <img src="fotos/dev2_prototypes.png") alt=testlocatie width=50% />
+  <img src="fotos/dev2_prototype.png") alt=testlocatie width=50% />
 </p> 
 
 ### Resultaten
