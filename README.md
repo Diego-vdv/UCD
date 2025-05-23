@@ -135,36 +135,36 @@ De 9 weken werden als volgt verdeeld:
 
 ---
 
-## Develop 1: Vormstudie inputknoppen
+## Develop 1: Vormstudie inputknoppen & Interfacefeedback
 
 ### Doelstellingen
 
-Het doel van deze fase was het analyseren en vergelijken van verschillende fysieke inputknoppen met de focus op gebruiksgemak tijdens het motorrijden.
+Het doel van deze fase was het analyseren en vergelijken van verschillende fysieke inputknoppen met de focus op gebruiksgemak tijdens het motorrijden, en het vergelijken van verschillende outputmogelijkheden van meldingen met de focus op cognitieve belasting.
 
 ### Materiaal en methoden
 
-Vier knoptypes werden getest op een stuurmock-up. Respondenten moesten de knoppen beoordelen op:
-- Vorm en herkenbaarheid
-- Bedienbaarheid met handschoenen
-- Haptische feedback
+Vier knoptypes werden getest op een stuur. Respondenten moesten de knoppen beoordelen op:
+- Vorm en grootte
+- Gebruiksgemak
+- Positie van de onderlinge knoppen.
 
-Interviews en observaties vormden de kern van de analyse.
+Hierna wordt een POV video van een rit voor de respondent getoont en wordt gevraagd om een helm aan te doen. De respondent focust doorheen de test op de video terwijl er prototypes onder het scherm geplaatst worden. Er zijn 4 prototypes: leds, zwart-wit symbolen, symbolen met elk een kleur, en woorden met elk een kleur. De respondent zegt luidop als hij een melding ziet en wat de betekenis is terwijl de tijd opgenomen wordt. Hierna worden nog enkele vragen gesteld.
 
 ### Resultaten
 
-- Rechthoekiege knoppen werden het snelst herkend.
-- Een voelbare klik werd als essentieel ervaren.
-- Kleine of vlakke knoppen zijn moeilijk te bedienen met handschoenen.
-- De knoppen moesten ondermekaar geplaatst worden
+- Rechthoekiege knoppen zijn makkelijker te herkennen en te onderrscheiden.
+- Kleine knoppen zijn moeilijk te bedienen met handschoenen.
+- De knoppen worden onder elkaar geplaatst om makkelijker de beweging van de duim te volgen.
 
 > [!Note]
 > Hier afbeelding toevoegen van ranking resultaat
 
 ### Conclusies en implicaties (design requirements en beslissingen)
 
-- Vorm: vierkant/rechthoekig met klik- of veerfeedback
-- Plaatsing: duimhoogte, mogelijk uitbreidbaar naar tank
-- Volgende stap: feedback en resultaten samen gieten tot eind vorm voor develop 2
+- Knopvorm: Vierkant/ rechthoekig, breed oppervlak, duidelijke feedback (klik/veer)
+- Interface: Symbolen met vaste kleurcode, vermijd overmatige tekst, led lichtjes die belangrijke meldingen rapper en feller tonen.
+- Fysieke ergonomie: Knoppen boven elkaar uitlijnen om beweging en reach van de duim te volgen
+- Cognitieve ergonomie: Beperk visuele input, vermijd dubbelzinnige signalen, geef de knoppen een eigen identiteit (kleur, textuur, …)
 
 ---
 
