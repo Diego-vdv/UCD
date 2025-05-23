@@ -1,5 +1,4 @@
 # RevUp
-test
 
 Een slimme GPS voor motorrijders die groepscommunicatie vergemakkelijkt en emotionele signalen kan vertalen naar acties zoals pauzes of routeaanpassingen.
 
@@ -231,15 +230,47 @@ Het RevUp-systeem biedt een tastbare meerwaarde voor het verbeteren van communic
 
 - Tabel met de finale design requirements
 
-||Design requirements |Waar?|Notes|
-|:---:|:---|---:|---|
-|1| Input|||
-|1.1|Er zijn vijf duidelijke inputs|||
-|1.1.1|Wacht op mij|Wave 1 rapport||
-|1.1.2|Pauze|Wave 1 rapport ||
-|1.1.3|Tanken|Wave 2 rapport ||
-|1.1.4|Gevaar|Wave 2 rapport||
-|1.1.5|Confirmatie van melding|Develop 2 rapport||
+| ID       | Design Requirements                                                                 | Waar?                  | Notes                                                                 |
+|----------|-------------------------------------------------------------------------------------|------------------------|-----------------------------------------------------------------------|
+| **1.0**  | **Input**                                                                           |                        |                                                                       |
+| 1.1      | Er zijn vijf duidelijk inputs                                                       |                        |                                                                       |
+| 1.1.1    | Wacht op mij                                                                        | Wave 1 raport          |                                                                       |
+| 1.1.2    | Pauze                                                                               | Wave 1 raport          |                                                                       |
+| 1.1.3    | Tanken                                                                              | Wave 2 raport          |                                                                       |
+| 1.1.4    | Gevaar                                                                              | Wave 2 raport          |                                                                       |
+| 1.1.5    | Confirmatie van melding                                                             | Develop 2 Raport       | knop aan zijkant                                                      |
+| 1.2      | Het gebruik blijft zo intuitief mogelijk om de aandacht op baan te houden          | Definition             |                                                                       |
+| 1.3      | De input gebeurd dmv knoppen                                                        | Wave 2 & 3 Raport      |                                                                       |
+| 1.4      | Er is een mogelijkheid om andere betekenissen aan de inputs toe te kennen.          | Wave 3 Raport          |                                                                       |
+| 1.5      | De knoppen kunnen met gemak aan het stuur vast hangen                               | Wave 3 Raport          |                                                                       |
+| 1.6      | De knoppen kunnen naar keuze van de gebruiker op andere posities hangen             | Wave 3 Raport          |                                                                       |
+| 1.7      | De 4 knoppen zijn opgesteld boven elkaar                                            | Develop 1 Raport       |                                                                       |
+| 1.8      | De knoppen zijn duidelijk te onderscheiden                                          |                        |                                                                       |
+| 1.8.1    | De knoppen zijn rechthoekig met een breed oppervlak                                 | Develop 1 Raport       | momenteel: 15 x 10 mm is goed                                         |
+| 1.8.2    | Er is genoeg plaats tussen de knoppen                                               | Develop 1 Raport       | momenteel: 5 mm is goed                                               |
+| 1.8.3    | Elke knop heeft een eigen textuur                                                   | Develop 2 Raport       |                                                                       |
+| **2.0**  | **Output**                                                                          |                        |                                                                       |
+| 2.1      | De output valt op zonder te veel aandacht te vragen                                 | Definition             |                                                                       |
+| 2.1.1    | De letters/ symbolen zijn groot genoeg                                              | Definition             | 2 cm hoog op yamaha MT 125                                            |
+| 2.1.2    | Er is een scherm die de routebeschrijving en mogelijke communicatie toont           | Wave 2 Raport          |                                                                       |
+| 2.3      | De visuele output is sterk genoeg in zonlicht                                       | [Referentie](https://nl.doitvision.com/how-many-nits-of-brightness-is-good-for-outdoor-led-display/) | hoeveel nits? -> 8000-15000 nits |
+| 2.4      | Er is een kapje boven het scherm die zonlicht wat blokkeert                         | Wave 3 Interview       | Zoals Verkeerslicht                                                   |
+| 2.5      | Er zijn duidelijke meldingen om te communiceren                                     | Wave 1 Raport          |                                                                       |
+| 2.5.1    | Op het scherm zijn symbolen te zien als er iemand een input geeft                   | Develop 1 Raport       |                                                                       |
+| 2.5.2    | De belangrijkst meldingen zijn gekoppeld met een led om rapper aandacht te trekken (gevaar & wacht op mij) | Develop 2 Raport |                                                                       |
+| 2.5.3    | Elke melding heeft zijn eigen kleur                                                 | Develop 1 Protocol     |                                                                       |
+| 2.5.3.1  | Tanken => Groen                                                                     | Develop 1 Protocol     |                                                                       |
+| 2.5.3.2  | Gevaar => Rood                                                                      | Develop 1 Raport       |                                                                       |
+| 2.5.3.3  | Wacht op mij => Geel                                                                | Develop 1 Raport       |                                                                       |
+| 2.5.3.4  | Pauze => Licht blauw                                                                | Develop 2 Interview    |                                                                       |
+| 2.6      | De meldingen belemmeren de routevoorstelling niet                                   | Develop 2 Raport       |                                                                       |
+| **3.0**  | **Routevoorstelling**                                                               |                        |                                                                       |
+| 3.1      | Top down view                                                                       | Wave 3 Raport          |                                                                       |
+| 3.2      | Het product heeft een toggle tussen route naar de leider en naar de eindbestemming  | Wave 3 Raport          |                                                                       |
+| 3.3      | Het systeem kan shortcuts voorstellen als er iemand achter loopt of een verkeerde afslag pakt | Wave 3 Interview |                                                                       |
+| **4.0**  | **Verbinding**                                                                      |                        |                                                                       |
+| 4.2      | Het product heeft de mogelijkheid om met intercoms te verbinden voor auditieve feedback | Wave 1 & 2 Raport  |                                                                       |
+| 4.3      | Het product heeft een bereik van 1 km                                               | Wave 3 Interview       | bereik van bestaande intercoms                                        |
 
 ---
 
