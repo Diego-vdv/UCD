@@ -217,11 +217,13 @@ Valideren van het finale prototype op gebruiksvriendelijkheid, plaatsing, en int
 
 ### Conclusies en implicaties (design requirements en beslissingen)
 
-- Plaatsing aan linkerstuurzijde is optimaal
 - Knoppen zijn voldoende voelbaar, maar verbeterbaar in tactiele differentiatie
 - Suggestie voor extra confirmatieknop of tijdsgebonden bevestiging
 - Schermfeedback is duidelijk, maar meldingen mogen niet te veel de routevoorstelling belemmeren
-
+- Plaatsing aan linkerstuurzijde is optimaal
+<p align=center>  
+  <img src="fotos/foto_moto_opstelling.jpg") alt=testlocatie width=50% />
+</p> 
 ---
 
 ## Conclusie
