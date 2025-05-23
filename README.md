@@ -16,7 +16,7 @@ Tijdens groepsritten op de motor of brommer ontstaan er geregeld communicatiepro
 
 ## Probleemstelling
 
-Motorrijders in groep communiceren doorgaans via handgebaren of intercomsystemen. Handgebaren zijn echter niet altijd betrouwbaar, zeker niet in omstandigheden waar snelle respons, duidelijkheid of emotionele context vereist zijn. Intercomsystemen zijn echter duur, kunnen voor connectivity problemen zorgen en hangen af van de communicatie vaardigheden van de gebruiker. Het ontbreken van effectieve communicatie leidt regelmatig tot frustraties, onveiligheid en desorganisatie binnen de groep.
+Motorrijders in groep communiceren doorgaans via handgebaren of intercomsystemen. Handgebaren zijn echter niet altijd betrouwbaar, zeker niet in omstandigheden waarbij snelle respons, duidelijkheid of emotionele context vereist is. Intercomsystemen zijn echter duur, kunnen voor connectivity problemen zorgen en hangen af van de communicatie vaardigheden van de gebruiker. Het ontbreken van effectieve communicatie leidt regelmatig tot frustraties, onveiligheid en desorganisatie binnen de groep.
 
 Daarbij is er momenteel geen systeem dat concrete signalen communiceert en daar actief op inspeelt. Stress, vermoeidheid of onzekerheid blijven onopgemerkt, met alle gevolgen van dien voor de veiligheid en rijervaring. Dit probleem wordt versterkt door de context van het motorrijden zelf: beperkte handvrijheid, hoge snelheden en visuele afleiding beperken de interactiemogelijkheden.
 
@@ -26,7 +26,7 @@ RevUp biedt hierop een antwoord via een combinatie van tactiele input (stuurknop
 
 ## Methodologie
 
-Door een zeer late pivot vanuit een ander project werd dit project uitgevoerd in een tijdsspan van 9 weken. Hierdoor kon het vooropgelegde stappenplan van het vak project gebruiksgericht ontwerp niet gevolgd worden. Er zal dus gebruik gemaakt worden van AI om orde en structuur, renders zoals hierboven en mogelijke elektronica vooruit te helpen, het gebruik van AI wordt telkens nagelezen en kritisch bekeken. Tijdens het ontwerptraject wordt alles op miro genoteerd, dit is een digitale whiteboard. Hierop werdt een tijdlijn opgesteld om voortgang wat te stuwen. Een nadeel hiervan is dat er minder itiratief nagedacht wordt, er wordt rap naar de volgende stap gekeken in plaats van terug te blikken naar de vorige.
+Door een zeer late pivot vanuit een ander project werd dit project uitgevoerd in een tijdsspan van 9 weken. Hierdoor kon het vooropgelegde stappenplan van het vak project gebruiksgericht ontwerp niet gevolgd worden. Er zal dus gebruik gemaakt worden van AI om orde en structuur, renders zoals hierboven en mogelijke elektronica te versnellen, het gebruik van AI wordt telkens nagelezen en kritisch bekeken. Tijdens het ontwerptraject wordt alles op miro genoteerd, dit is een digitale whiteboard. Hierop werdt een tijdlijn opgesteld om voortgang wat te stuwen. Een nadeel hiervan is dat er minder itiratief nagedacht wordt, er wordt rap naar de volgende stap gekeken in plaats van terug te blikken naar de vorige.
 
 De 9 weken werden als volgt verdeeld:
 
@@ -34,7 +34,7 @@ De 9 weken werden als volgt verdeeld:
   → Reddit-enquête bij motorrijders (20+ antwoorden)
 
 - **Fase 2: Interviews (Wave 1, 2 & 3)**  
-  → Diepte-interviews met rijders rond frustraties, communicatiegewoontes, routeplanning en beleving
+  → Diepte-interviews met motorrijders rond frustraties, communicatiegewoontes, routeplanning en beleving
 
 - **Fase 3: Analyse & Synthese**  
   → Persona's, scenario’s, design criteria
@@ -231,7 +231,7 @@ Valideren van het finale prototype op gebruiksvriendelijkheid, plaatsing, en int
 
 ## Conclusie
 
-Het RevUp-systeem biedt een tastbare meerwaarde voor het verbeteren van communicatie en veiligheid tijdens groepsritten met de motor. Door gebruik te maken van fysieke stuurknoppen, duidelijke visuele feedback en compatibiliteit met bestaande intercomsystemen, wordt het voor rijders mogelijk om snel en intuïtief cruciale informatie met elkaar te delen. De bewuste keuze om emotieherkenning enkel manueel te integreren garandeert de autonomie en het vertrouwen van de gebruiker. Het project toont aan dat een mensgericht ontwerp, opgebouwd uit iteratief gebruikersonderzoek, kan leiden tot een systeem dat zowel technisch uitvoerbaar als gebruiksvriendelijk is. RevUp vormt daarmee een sterke basis voor verdere ontwikkeling en integratie van slimmere rijhulpsystemen binnen de context van motorgroepen.
+Het RevUp-systeem biedt een tastbare meerwaarde voor het verbeteren van communicatie en veiligheid tijdens groepsritten met de motor. Door gebruik te maken van fysieke stuurknoppen, duidelijke visuele feedback en compatibiliteit met bestaande intercomsystemen, wordt het voor motorrijders mogelijk om snel en intuïtief cruciale informatie met elkaar te delen. De bewuste keuze om emotieherkenning enkel manueel te integreren garandeert de autonomie en het vertrouwen van de gebruiker. Het project toont aan dat een mensgericht ontwerp, opgebouwd uit iteratief gebruikersonderzoek, kan leiden tot een systeem dat zowel technisch uitvoerbaar als gebruiksvriendelijk is. RevUp vormt daarmee een sterke basis voor verdere ontwikkeling en integratie van slimmere rijhulpsystemen binnen de context van motorgroepen.
 
 - Tabel met de finale design requirements
 
@@ -281,7 +281,7 @@ Het RevUp-systeem biedt een tastbare meerwaarde voor het verbeteren van communic
 
 ## Technische beschrijving
 
-Het scherm is cirkelvormig en hangt met een korte arm aan het stuur vast, rond het scherm zit een ledring voor extra visuele feedback. Er zijn ook knoppen die waarschijnlijk aan de linkerkant van het stuur hangen maar de mogelijkheid hebben om door de gebruiker zelf geplaatst te worden. De knoppen verschillen niet veel van de render uit develop 2, maar bevatten een extra conformatie knop aan de bovenkant.
+Het scherm is cirkelvormig en hangt met een korte arm aan het stuur vast, rond het scherm zit een ledring voor extra visuele feedback. Er zijn ook knoppen die waarschijnlijk aan de linkerkant van het stuur hangen maar de mogelijkheid hebben om door de gebruiker zelf geplaatst te worden. De knoppen verschillen niet veel van de render uit Develop 2, maar bevatten een extra bevestigingsknop knop aan de bovenkant.
 
 <p align=center>  
   <img src="fotos/image.png") alt=testlocatie width=50% />
@@ -297,7 +297,7 @@ Het scherm is cirkelvormig en hangt met een korte arm aan het stuur vast, rond h
 ---
 
 ## Kritische reflectie
-Zoals vermeld in de methodologie zorgde de korte periode voor een ietwat minder iteratief ontwerpproces. Hierdoor bleven er lang vragen bestaan rond de in- en outputsystemen, en is er onvoldoende nagedacht over aspecten zoals de routebeschrijving, het linken van de RevUp’s en andere digitale UX-elementen. Daarnaast vallen de respondenten van onze user tests en interviews vaak binnen dezelfde motorgroep, wat het risico met zich meebrengt dat het product voornamelijk is afgestemd op de noden van één specifieke doelgroep in plaats van alle motorrijders. Door het zeer korte designtraject zijn er verschillende punten die nog verder onderzocht of uitgewerkt moeten worden. 
+Zoals vermeld in de methodologie zorgde de korte periode voor een ietwat minder iteratief ontwerpproces. Hierdoor bleven er lang vragen bestaan over de in- en outputsystemen, en is er onvoldoende nagedacht over aspecten zoals de routebeschrijving, het linken van de RevUp’s en andere digitale UX-elementen. Daarnaast vallen de respondenten van onze user tests en interviews vaak binnen dezelfde motorgroep, wat het risico met zich meebrengt dat het product voornamelijk is afgestemd op de noden van één specifieke doelgroep in plaats van alle motor. Door het zeer korte designtraject zijn er verschillende punten die nog verder onderzocht of uitgewerkt moeten worden. 
 De belangrijkste hiervan zijn: het uitwerken van de routebeschrijving en het short-cut systeem voor achterliggers, het motorvriendelijker maken van de GPS-lay-out (met bijvoorbeeld de mogelijkheid om vrienden te zien), het verbeteren van de verbinding tussen RevUp’s (op vlak van gebruiksvriendelijkheid en technologie), en het optimaliseren van de main body (zoals de integratie van het scherm met LED’s in één behuizing en de elektronica).
 
 ---
