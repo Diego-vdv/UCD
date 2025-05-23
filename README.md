@@ -144,10 +144,10 @@ Vijf verschillende knoptypes werden op een stuurmock-up gepresenteerd. Responden
 
 Na deze beoordeling werd een point-of-view video van een motorrijder getoond, waarbij de respondent een helm opzette om een realistische rijsituatie te simuleren. Tijdens deze simulatie werden vier outputprototypes onder het scherm geplaatst:
 
-- LED’s
-- Zwart-wit symbolen
-- Gekleurde symbolen
-- Woorden gekoppeld aan kleuren
+- LED’s (Arduino)
+- Zwart-wit symbolen (Figma)
+- Gekleurde symbolen (Figma)
+- Woorden gekoppeld aan kleuren (Figma)
 
 Respondenten gaven hardop aan wanneer ze een melding zagen, wat ze dachten dat deze betekende en hoe duidelijk die werd ervaren. De reactietijd werd geregistreerd, gevolgd door een korte reeks evaluatievragen over voorkeur en interpretatie.
 
