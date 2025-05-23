@@ -193,7 +193,9 @@ Valideren van het finale prototype op gebruiksvriendelijkheid, plaatsing, en int
 
 ### Resultaten
 
-
+<p align=center>  
+  <img src="fotos/dev2_BERT_results.png") alt=testlocatie width=50% />
+</p> 
 
 ### Conclusies en implicaties (design requirements en beslissingen)
 
