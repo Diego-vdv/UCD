@@ -1,4 +1,4 @@
-# Revup
+# RevUp
 
 
 Een slimme GPS voor motorrijders die groepscommunicatie vergemakkelijkt en emotionele signalen kan vertalen naar acties zoals pauzes of routeaanpassingen.
