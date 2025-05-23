@@ -1,6 +1,5 @@
 # Revup
 
-*Omschrijving van je concept in 1 zin:*  
 
 Een slimme GPS voor motorrijders die groepscommunicatie vergemakkelijkt en emotionele signalen kan vertalen naar acties zoals pauzes of routeaanpassingen.
 
@@ -70,8 +69,8 @@ De 9 weken werden als volgt verdeeld:
 
 ### Materiaal & methoden
 
-- Google Form vragenlijst (via Reddit)
-- Literatuurstudie Wave 1
+- Google Form vragenlijst (via Reddit)  (N = 59)
+- Literatuurstudie Wave 1 (N = 4)
 - Persona-ontwikkeling
 - Online whiteboard Miro
 
@@ -103,7 +102,7 @@ Wat betreft invoermethoden werd vastgesteld dat touchscreens in deze context sub
 
 ### Materiaal en methoden
 
-- Analyse van enquête en interviewresultaten (Wave 2 en 3)
+- Analyse van enquête en interviewresultaten (Wave 2 en 3) (N = 8)
 - Persona-ontwikkeling en scenariobouw
 - Synthese van fysieke en cognitieve voorkeuren voor productinteractie
 - Vertaling naar concrete design requirements
@@ -127,7 +126,7 @@ Tijdens de interviews werd herhaaldelijk twijfel geuit over het gebruik van sens
 
 ---
 
-## Develop 1: Vormstudie inputknoppen & Interfacefeedback
+## Develop 1: Vormstudie inputknoppen & Interfacefeedback (N = 4)
 
 ### Doelstellingen
 
@@ -179,7 +178,7 @@ LED's en gekleurde symbolen scoorden het best, maar elk om een andere reden. LED
 
 ---
 
-## Develop 2: Prototype-evaluatie
+## Develop 2: Prototype-evaluatie (N=4)
 
 ### Doelstellingen (cfr. methodologie)
 
