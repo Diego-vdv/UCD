@@ -278,15 +278,6 @@ Het RevUp-systeem biedt een tastbare meerwaarde voor het verbeteren van communic
 
 ---
 
-## To Do
-Doordat we een zeer kort designtraject afgelopen hebben zijn er dingen die we nog willen onderzoeken/ afwerken, de belangrijkste hiervan zijn:
-- Uitwerken routebeschrijving en het short-cut systeem voor achterliggers
-- Lay-out gps mototvriendelijk maken (mogelijkheid om vrienden te zien, ...)
-- Uitwerken verbinding tussen RevIt's (gebruiksvriendelijkheid, technologie, ...)
-- Uitwerken main body (scherm met leds in één body, elektronica, ...)
-  
----
-
 ## Technische beschrijving
 |Naam Component|Hoe te verkrijgen|
 |----|---|
@@ -299,13 +290,10 @@ Doordat we een zeer kort designtraject afgelopen hebben zijn er dingen die we no
 - Hiermee moet iemand die wil verderweren op je product genoeg hebben om dit na te bouwen.
 
 
-
 ---
 
 ## Kritische reflectie
-Zoals vermeld in de methodologie zorgde de korte periode voor een ietwat minder itiratief ontwerpproces, hierdoor bleven er lang vragen rond de in- en output systemen en is er niet veel nagedacht over de routebeschrijving, het linken van de RevUp's en andere digitale UX.
-
-De respondenten van onze user tests en interviews vallen vaak in dezelfde motorgroep, hierdoor is er een kans dat het product gemaakt is op de noden van 1 doelgroep en niet alle motorrijders.
+Zoals vermeld in de methodologie zorgde de korte periode voor een ietwat minder iteratief ontwerpproces. Hierdoor bleven er lang vragen bestaan rond de in- en outputsystemen, en is er onvoldoende nagedacht over aspecten zoals de routebeschrijving, het linken van de RevUp’s en andere digitale UX-elementen. Daarnaast vallen de respondenten van onze user tests en interviews vaak binnen dezelfde motorgroep, wat het risico met zich meebrengt dat het product voornamelijk is afgestemd op de noden van één specifieke doelgroep in plaats van alle motorrijders. Door het zeer korte designtraject zijn er verschillende punten die nog verder onderzocht of uitgewerkt moeten worden. De belangrijkste hiervan zijn: het uitwerken van de routebeschrijving en het short-cut systeem voor achterliggers, het motorvriendelijker maken van de GPS-lay-out (met bijvoorbeeld de mogelijkheid om vrienden te zien), het verbeteren van de verbinding tussen RevUp’s (op vlak van gebruiksvriendelijkheid en technologie), en het optimaliseren van de main body (zoals de integratie van het scherm met LED’s in één behuizing en de elektronica).
 
 ---
 
