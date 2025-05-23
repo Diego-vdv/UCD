@@ -153,6 +153,16 @@ Respondenten gaven hardop aan wanneer ze een melding zagen, wat ze dachten dat d
 
 De testopzet werd geoptimaliseerd voor zowel fysieke als cognitieve evaluatie en biedt een solide basis voor verdere iteratie van input/outputdesign binnen de RevUp-interface.
 
+#### Prototypes
+
+*Knoppen:*
+
+*Output:*
+
+<p align=center>  
+  <img src="fotos/dev1_output_prototype.png") alt=testlocatie width=75% />
+</p> 
+
 ### Resultaten
 
 #### Observaties knopvoorkeuren
