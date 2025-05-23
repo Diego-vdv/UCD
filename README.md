@@ -314,4 +314,7 @@ De belangrijkste hiervan zijn: het uitwerken van de routebeschrijving en het sho
 - Scribbr. (2023). APA-stijl. https://www.scribbr.nl/apa-stijl
 - [stock_motorcycle_handlebar_measurements_cruisers.pdf](https://github.com/Diego-vdv/UCD/blob/main/files/Develop%201/Varia/stock_motorcycle_handlebar_measurements_cruisers.pdf)
 
-## [Bijlages](https://github.com/Diego-vdv/UCD/tree/main/files)
+## Bijlages
+- [Figma Wave 3](https://www.figma.com/design/jczjBbefMMrLNKA9MCjokl/PGGO?node-id=0-1&t=pkmAj3ic0I2tv0EO-1)
+- [Figma Develop 1](https://www.figma.com/design/dB6rPs7raodgSTXBTbmTRY/Untitled?node-id=0-1&t=oCPwAQgY0166zUbN-1)
+- [Protopie Develop 2](https://cloud.protopie.io/p/2011223ff1d2769bc2ba3834?ui=true&scaleToFit=true&enableHotspotHints=true&cursorType=touch&mockup=true&bgColor=%23F5F5F5&bgImage=undefined&playSpeed=1)
