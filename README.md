@@ -12,6 +12,11 @@ Een slimme GPS voor motorrijders die groepscommunicatie vergemakkelijkt en emoti
 
 Tijdens groepsritten op de motor of brommer ontstaan er geregeld communicatieproblemen, zeker bij onverwachte situaties zoals wegveranderingen, tankbeurten of stress. Met dit project willen we dit aanpakken door een slim GPS-systeem te ontwerpen dat via eenvoudige input en output (zoals knoppen en licht- of geluidsignalen) de communicatie stroomlijnt. In de discovery fase onderzochten we voorkeuren rond communicatievormen, outputtypes en routecoördinatie. Hierna worden de design requirements opgesteld om in de develop fase de uitgekomen eisen en wensen tot een finaal concept/ product uit te werken.
 
+<p align=center>  
+  <img src="fotos/image.png") alt=testlocatie width=40% />
+  <img src="fotos/render_dev_2.jpg") alt=testlocatie width=53.5% />
+</p> 
+
 ---
 
 ## Probleemstelling
@@ -283,9 +288,6 @@ Het RevUp-systeem biedt een tastbare meerwaarde voor het verbeteren van communic
 
 Het scherm is cirkelvormig en hangt met een korte arm aan het stuur vast, rond het scherm zit een ledring voor extra visuele feedback. Er zijn ook knoppen die waarschijnlijk aan de linkerkant van het stuur hangen maar de mogelijkheid hebben om door de gebruiker zelf geplaatst te worden. De knoppen verschillen niet veel van de render uit Develop 2, maar bevatten een extra bevestigingsknop knop aan de bovenkant.
 
-<p align=center>  
-  <img src="fotos/image.png") alt=testlocatie width=50% />
-</p> 
 
 |Naam Component|Hoe te verkrijgen|
 |----|---|
