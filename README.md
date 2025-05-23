@@ -94,8 +94,7 @@ Wat betreft invoermethoden werd vastgesteld dat touchscreens in deze context sub
 ---
 
 ## Definition
->^[!Note]
->aanpassen: wave 2 en 3 naar definition verplaatst
+
 ### Doelstellingen
 
 - Vaststellen van kernfunctionaliteiten en vereisten voor groepscommunicatie op de motor
