@@ -231,6 +231,16 @@ Het RevUp-systeem biedt een tastbare meerwaarde voor het verbeteren van communic
 
 - Tabel met de finale design requirements
 
+||Design requirements |Waar?|Notes|
+|:---:|:---|---:|---|
+|1| Input|||
+|1.1|Er zijn vijf duidelijke inputs|||
+|1.1.1|Wacht op mij|Wave 1 rapport||
+|1.1.2|Pauze|Wave 1 rapport ||
+|1.1.3|Tanken|Wave 2 rapport ||
+|1.1.4|Gevaar|Wave 2 rapport||
+|1.1.5|Confirmatie van melding|Develop 2 rapport||
+
 ---
 
 ## To Do
