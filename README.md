@@ -8,7 +8,7 @@ Een slimme GPS voor motorrijders die groepscommunicatie vergemakkelijkt en emoti
 ---
 
 ## Samenvatting
-Tijdens groepsritten op de motor of brommer ontstaan er geregeld communicatieproblemen, zeker bij onverwachte situaties zoals wegveranderingen, tankbeurten of stress. Met dit project willen we dit aanpakken door een slim GPS-systeem te ontwerpen dat via eenvoudige input en output (zoals knoppen en licht- of geluidsignalen) de communicatie stroomlijnt. Via bepaalde sensoren kunnen ook emoties of stresssignalen in kaart gebracht worden. In de discovery fase onderzochten we voorkeuren rond communicatievormen, outputtypes en routecoördinatie. Hierna worden de design requirements opgesteld om in de develop fase de uitgekomen eisen en wensen tot een finaal concept/ product uit te werken.
+Tijdens groepsritten op de motor of brommer ontstaan er geregeld communicatieproblemen, zeker bij onverwachte situaties zoals wegveranderingen, tankbeurten of stress. Met dit project willen we dit aanpakken door een slim GPS-systeem te ontwerpen dat via eenvoudige input en output (zoals knoppen en licht- of geluidsignalen) de communicatie stroomlijnt. In de discovery fase onderzochten we voorkeuren rond communicatievormen, outputtypes en routecoördinatie. Hierna worden de design requirements opgesteld om in de develop fase de uitgekomen eisen en wensen tot een finaal concept/ product uit te werken.
 
 *Hero image/render:*
 <p align=center>  
@@ -17,7 +17,10 @@ Tijdens groepsritten op de motor of brommer ontstaan er geregeld communicatiepro
 
 ---
 
-## Introductie
+## Probleemstelling
+>^[!Note]
+>aanpassen
+
 Communicatie tussen motorrijders in groep is vaak beperkt tot handgebaren en korte intercomgesprekken. Dit leidt tot frustraties en onduidelijkheden, zeker tijdens langere ritten of bij stresssituaties. Ons doel is om de communicatie en beleving tijdens groepsritten te verbeteren, met speciale aandacht voor intuïtieve input/outputoplossingen en emotieherkenning. Hierbij houden we rekening met de complexiteit van motorrijden: handen zijn niet vrij, zichtbaarheid is beperkt en veiligheid staat centraal.
 
 We baseren ons o.a. op inzichten uit gebruikersonderzoek, literatuur over rijdersgedrag en technologie zoals de Emotiebit, die biofeedbackdata kan geven zoals hartslag of galvanische huidrespons (GSR). 
@@ -44,10 +47,10 @@ De 9 weken werden als volgt verdeeld:
 - **Fase 5: Delivery Fase**
   → Afwerking, video
 
-- **Visuale tijdslijn (voorbeeld):**  
-  - Week 1: Vragenlijstanalyse
-  - Week 2 - paasvakantie (week 3-5): Interviews en analyse
-  - Paasvakantie - week 8: Develop fase
+- **Visuale tijdslijn:** 
+  - Week 1: Discovery
+  - Week 2 t.e.m. week 5: Define
+  - Week 6 t.e.m. week 9: Develop fase
   - Week 9: Delivery fase
 
 ---
@@ -56,16 +59,18 @@ De 9 weken werden als volgt verdeeld:
 ### Doelstellingen
 - Achterhalen hoe motorrijders communiceren in groep
 - Inzicht krijgen in frustraties en emotionele triggers tijdens groepsritten
-- Verkennen van voorkeuren rond input/outputvormen
+- Verkennen van technologiën rond input/outputvormen
 
 ### Materiaal & methoden
 - Google Form vragenlijst (via Reddit)
 - Literatuurstudie Wave 1
-- Interviewprotocol Wave 2 & 3
 - Persona-ontwikkeling
 - Online whiteboard Miro
 
 ### Resultaten
+>^[!Note]
+>aanpassen: wave 2 en 3 naar definition verplaatst
+
 - Veelgebruikte communicatie: intercom, handgebaren, GPX-route
 - Frustraties: slechte koppeling, onduidelijkheid, stress door misverstanden, niet iedereen heeft com-systeem/ kent de handgebaren
 - Visuele output (licht) is nuttig, maar beperkt bruikbaar bij zonlicht
@@ -86,7 +91,8 @@ De 9 weken werden als volgt verdeeld:
 ---
 
 ## Definition
-
+>^[!Note]
+>aanpassen: wave 2 en 3 naar definition verplaatst
 ### Doelstellingen
 
 - Vaststellen van kernfunctionaliteiten en vereisten voor groepscommunicatie op de motor
@@ -95,7 +101,7 @@ De 9 weken werden als volgt verdeeld:
 
 ### Materiaal en methoden
 
-- Analyse van enquête en interviewresultaten (Wave 1 t.e.m. 3)
+- Analyse van enquête en interviewresultaten (Wave 2 en 3)
 - Persona-ontwikkeling en scenariobouw
 - Synthese van fysieke en cognitieve voorkeuren voor productinteractie
 - Vertaling naar concrete design requirements
