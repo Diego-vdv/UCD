@@ -1,10 +1,14 @@
-# RevUp
+# RevUp  
 
 Een slimme GPS voor motorrijders die groepscommunicatie vergemakkelijkt en emotionele signalen kan vertalen naar acties zoals pauzes of routeaanpassingen.
 
 *Projectteam: Diego Vande Vyvere; Mattiz Vermeulen* 
 
-2024 - 2025  
+2024 - 2025 
+<p align=center>  
+  <img src="fotos/logo.png") alt=testlocatie width=10% />
+</p> 
+ 
 
 ---
 
