@@ -303,7 +303,9 @@ Doordat we een zeer kort designtraject afgelopen hebben zijn er dingen die we no
 ---
 
 ## Kritische reflectie
-Het project toonde al in een vroege fase dat veel rijders technologie waarderen zolang deze niet opdringerig is. De interviews bevestigden het belang van gebruiksgemak, zichtbaarheid en compatibiliteit met bestaande systemen. Emotieherkenning blijkt interessant, maar vereist duidelijkheid en controle voor de gebruiker. De volgende stap is een iteratieve testfase waarin feedbackcycli worden ingebouwd.
+Zoals vermeld in de methodologie zorgde de korte periode voor een ietwat minder itiratief ontwerpproces, hierdoor bleven er lang vragen rond de in- en output systemen en is er niet veel nagedacht over de routebeschrijving, het linken van de RevUp's en andere digitale UX.
+
+De respondenten van onze user tests en interviews vallen vaak in dezelfde motorgroep, hierdoor is er een kans dat het product gemaakt is op de noden van 1 doelgroep en niet alle motorrijders.
 
 ---
 
