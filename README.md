@@ -1,13 +1,17 @@
 # Revup
+
 *Omschrijving van je concept in 1 zin:*  
+
 Een slimme GPS voor motorrijders die groepscommunicatie vergemakkelijkt en emotionele signalen kan vertalen naar acties zoals pauzes of routeaanpassingen.
 
-*Projectteam: Diego Vande Vyvere; Mattiz Vermeulen*  
+*Projectteam: Diego Vande Vyvere; Mattiz Vermeulen* 
+
 2024 - 2025  
 
 ---
 
 ## Samenvatting
+
 Tijdens groepsritten op de motor of brommer ontstaan er geregeld communicatieproblemen, zeker bij onverwachte situaties zoals wegveranderingen, tankbeurten of stress. Met dit project willen we dit aanpakken door een slim GPS-systeem te ontwerpen dat via eenvoudige input en output (zoals knoppen en licht- of geluidsignalen) de communicatie stroomlijnt. In de discovery fase onderzochten we voorkeuren rond communicatievormen, outputtypes en routecoördinatie. Hierna worden de design requirements opgesteld om in de develop fase de uitgekomen eisen en wensen tot een finaal concept/ product uit te werken.
 
 *Hero image/render:*
@@ -18,6 +22,7 @@ Tijdens groepsritten op de motor of brommer ontstaan er geregeld communicatiepro
 ---
 
 ## Probleemstelling
+
 >^[!Note]
 >aanpassen
 
@@ -28,6 +33,7 @@ We baseren ons o.a. op inzichten uit gebruikersonderzoek, literatuur over rijder
 ---
 
 ## Methodologie
+
 Door een zeer late pivot vanuit een ander project werd dit project uitgevoerd in een tijdsspan van 9 weken. Hierdoor kon het vooropgelegde stappenplan van het vak project gebruiksgericht ontwerp niet gevolgd worden. Er zal dus gebruik gemaakt worden van AI om orde en structuur, renders zoals hierboven en mogelijke elektronica vooruit te helpen, het gebruik van AI wordt telkens nagelezen en kritisch bekeken.
 
 De 9 weken werden als volgt verdeeld:
@@ -56,20 +62,21 @@ De 9 weken werden als volgt verdeeld:
 ---
 
 ## Discovery
+
 ### Doelstellingen
+
 - Achterhalen hoe motorrijders communiceren in groep
 - Inzicht krijgen in frustraties en emotionele triggers tijdens groepsritten
 - Verkennen van technologiën rond input/outputvormen
 
 ### Materiaal & methoden
+
 - Google Form vragenlijst (via Reddit)
 - Literatuurstudie Wave 1
 - Persona-ontwikkeling
 - Online whiteboard Miro
 
 ### Resultaten
->^[!Note]
->aanpassen: wave 2 en 3 naar definition verplaatst
 
 - Veelgebruikte communicatie: intercom, handgebaren, GPX-route
 - Frustraties: slechte koppeling, onduidelijkheid, stress door misverstanden, niet iedereen heeft com-systeem/ kent de handgebaren
@@ -80,7 +87,9 @@ De 9 weken werden als volgt verdeeld:
 - Inputmethodes zoals touchscreen met weinig tactiele feedback vragen te veel andacht tijdens het rijden
 - Een glove die handgebaren opvangt kan leuk en "voor de hand liggend zijn" qua gebruik, maar heeft technisch wat moeilijkheden
 
+
 ### Conclusies & implicaties
+
 - Keep it simple: fysieke knoppen en beperkte outputtypes hebben voorkeur
 - Emotieherkenning moet optioneel zijn en niet dominant
 - Route moet voor iedereen zichtbaar zijn of gestuurd kunnen worden
@@ -110,11 +119,14 @@ De 9 weken werden als volgt verdeeld:
 
 - Gebruiksgemak vereist fysieke knoppen boven touchscreens
 - Visuele feedback (symbolen + kleur) primeert op tekst of geluid
-- Autonomie van de gebruiker blijft belangrijk – notificaties moeten niet opdringerig zijn
-- Emotieherkenning enkel als optioneel detectiesysteem met manuele bevestiging
+- Autonomie van de gebruiker blijft belangrijk
+– notificaties moeten niet opdringerig zijn
 - Groepscoördinatie via zichtbare route en "volg kapitein"-functie blijkt waardevol
 
+- Emotieherkenning enkel als optioneel detectiesysteem met manuele bevestiging
+  
 ### Conclusies en implicaties (design requirements en beslissingen)
+
 - Knoppen moeten groot, duidelijk en haptisch zijn
 - Plaatsing aan de linkerstuurzijde is optimaal voor veiligheid en bereikbaarheid
 - De interface moet eenvoudig, leesbaar en universeel zijn qua iconografie
