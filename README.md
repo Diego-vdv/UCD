@@ -135,18 +135,34 @@ Het doel van deze fase was het analyseren en vergelijken van verschillende fysie
 
 ### Materiaal en methoden
 
-Vier knoptypes werden getest op een stuur. Respondenten moesten de knoppen beoordelen op:
+#### Testopzet
+
+Vijf verschillende knoptypes werden op een stuurmock-up gepresenteerd. Respondenten evalueerden deze op:
+
 - Vorm en grootte
 - Gebruiksgemak
-- Positie van de onderlinge knoppen.
+- Positionering ten opzichte van elkaar
 
-Hierna wordt een POV video van een rit voor de respondent getoont en wordt gevraagd om een helm aan te doen. De respondent focust doorheen de test op de video terwijl er prototypes onder het scherm geplaatst worden. Er zijn 4 prototypes: leds, zwart-wit symbolen, symbolen met elk een kleur, en woorden met elk een kleur. De respondent zegt luidop als hij een melding ziet en wat de betekenis is terwijl de tijd opgenomen wordt. Hierna worden nog enkele vragen gesteld.
+Na deze beoordeling werd een point-of-view video van een motorrijder getoond, waarbij de respondent een helm opzette om een realistische rijsituatie te simuleren. Tijdens deze simulatie werden vier outputprototypes onder het scherm geplaatst:
+
+- LED’s
+- Zwart-wit symbolen
+- Gekleurde symbolen
+- Woorden gekoppeld aan kleuren
+
+Respondenten gaven hardop aan wanneer ze een melding zagen, wat ze dachten dat deze betekende en hoe duidelijk die werd ervaren. De reactietijd werd geregistreerd, gevolgd door een korte reeks evaluatievragen over voorkeur en interpretatie.
+
+De testopzet werd geoptimaliseerd voor zowel fysieke als cognitieve evaluatie en biedt een solide basis voor verdere iteratie van input/outputdesign binnen de RevUp-interface.
 
 ### Resultaten
 
-- Rechthoekiege knoppen zijn makkelijker te herkennen en te onderrscheiden.
-- Kleine knoppen zijn moeilijk te bedienen met handschoenen.
-- De knoppen worden onder elkaar geplaatst om makkelijker de beweging van de duim te volgen.
+#### Observaties knopvoorkeuren
+
+Rechthoekige knoppen werden door de meeste respondenten het snelst herkend, dankzij hun duidelijke vorm. Een voelbare klik werd als essentieel beschouwd voor betrouwbare feedback tijdens het rijden. Kleine of vlakke knoppen bleken minder geschikt, vooral in combinatie met motorhandschoenen. De voorkeur ging uit naar een verticale plaatsing van de knoppen, zodat de duimbeweging natuurlijk en intuïtief blijft.
+
+#### Observaties Output
+
+...
 
 > [!Note]
 > Hier afbeelding toevoegen van ranking resultaat
