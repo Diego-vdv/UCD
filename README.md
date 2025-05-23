@@ -70,6 +70,12 @@ De 9 weken werden als volgt verdeeld:
 
 ### Resultaten
 
+De doelgroep en probleemstelling zijn uitgewerkt in een persona:
+
+<p align=center>  
+  <img src="fotos/persona.png") alt=testlocatie width=50% />
+</p> 
+
 Tijdens groepsritten maken motorrijders doorgaans gebruik van intercomsystemen, handgebaren en vooraf gedeelde GPS-routes om met elkaar te communiceren. Deze strategieën blijken in de praktijk niet altijd toereikend: miscommunicatie ontstaat wanneer koppelingen uitvallen of bepaalde gebaren niet universeel gekend zijn binnen de groep. Veel gecommuniceerde onderwerpen zijn momenteel pauzes, tanken, politie, ...
 
 Emoties kunnen op verschillende manieren opgemeten worden, GSR kan de geleidbaarheid van de huid meten en een hartslagmeter meet zoals de naam zegt je hartslag. Zo kan er automatisch een melding naar de groep gestuurd worden mocht er iets verkeerd lopen of als de gebruiker gestressed is op baan.
