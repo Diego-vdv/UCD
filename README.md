@@ -154,11 +154,26 @@ Interviews en observaties vormden de kern van de analyse.
 
 ### Doelstellingen (cfr. methodologie)
 
+Valideren van het finale prototype op gebruiksvriendelijkheid, plaatsing, en intuïtieve interactie.
+
 ### Materiaal en methoden
+
+- Wizard-of-Oz tests
+- Interviews
+- Plaatsingsoefening
+- BERT-evaluatie t.o.v. intercomsystemen
 
 ### Resultaten
 
+- Knoppen: goed voelbaar, maar kunnen groter of verder uit elkaar
+- Interface: LED’s goed voor signalering; gebruikers verwachten bevestiging
+- BERT-test: prototype werd als intuïtiever en minder DIY ervaren dan vorige versies
+
 ### Conclusies en implicaties (design requirements en beslissingen)
+
+- Plaatsing aan linkerstuurzijde is optimaal
+- Feedback moet meer visuele variatie hebben (kleur/textuur)
+- Suggestie voor confirmatieknop of tijdsgebonden bevestiging
 
 ---
 
