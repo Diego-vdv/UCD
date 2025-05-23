@@ -50,7 +50,7 @@ De 9 weken werden als volgt verdeeld:
 - **Fase 5: Delivery Fase**
   → Afwerking, video
 
-- **Visuale tijdslijn:** 
+- **Tijdslijn:** 
   - Week 1: Discovery
   - Week 2 t.e.m. week 5: Define
   - Week 6 t.e.m. week 9: Develop fase
