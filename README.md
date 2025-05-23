@@ -21,17 +21,17 @@ Tijdens groepsritten op de motor of brommer ontstaan er geregeld communicatiepro
 
 ## Probleemstelling
 
-Motorrijders in groep communiceren doorgaans via handgebaren of intercomsystemen. Deze methodes zijn echter niet altijd betrouwbaar, zeker niet in omstandigheden waar snelle respons, duidelijkheid of emotionele context vereist zijn. Het ontbreken van effectieve communicatie leidt regelmatig tot frustraties, onveiligheid en desorganisatie binnen de groep.
+Motorrijders in groep communiceren doorgaans via handgebaren of intercomsystemen. Handgebaren zijn echter niet altijd betrouwbaar, zeker niet in omstandigheden waar snelle respons, duidelijkheid of emotionele context vereist zijn. Intercomsystemen zijn echter duur, kunnen voor connectivity problemen zorgen en hangen af van de communicatie vaardigheden van de gebruiker. Het ontbreken van effectieve communicatie leidt regelmatig tot frustraties, onveiligheid en desorganisatie binnen de groep.
 
-Daarbij is er momenteel geen systeem dat emotionele signalen detecteert en daar actief op inspeelt. Stress, vermoeidheid of onzekerheid blijven onopgemerkt, met alle gevolgen van dien voor de veiligheid en rijervaring. Dit probleem wordt versterkt door de context van het motorrijden zelf: beperkte handvrijheid, hoge snelheden en visuele afleiding beperken de interactiemogelijkheden.
+Daarbij is er momenteel geen systeem dat concrete signalen communiceert en daar actief op inspeelt. Stress, vermoeidheid of onzekerheid blijven onopgemerkt, met alle gevolgen van dien voor de veiligheid en rijervaring. Dit probleem wordt versterkt door de context van het motorrijden zelf: beperkte handvrijheid, hoge snelheden en visuele afleiding beperken de interactiemogelijkheden.
 
-RevUp biedt hierop een antwoord via een combinatie van tactiele input (stuurknoppen), visuele en auditieve feedback, en optionele emotiedetectie via biofeedbacksensoren. Het systeem ondersteunt niet alleen communicatie over praktische zaken (bv. tanken, pauzes, gevaren), maar maakt het ook mogelijk om onzichtbare signalen zoals stress te detecteren en hier gepast op te reageren.
+RevUp biedt hierop een antwoord via een combinatie van tactiele input (stuurknoppen) met visuele feedback en een mogelijkheid om audio apparaten te verbinden. Het systeem ondersteunt niet alleen communicatie over praktische zaken (bv. tanken, gevaren), maar maakt het ook mogelijk om onzichtbare signalen zoals vermoeidheid (pauze, wacht op mij) te communiceren en hier gepast op te reageren door de routebeschrijving aan te passen naargelang de noden.
 
 ---
 
 ## Methodologie
 
-Door een zeer late pivot vanuit een ander project werd dit project uitgevoerd in een tijdsspan van 9 weken. Hierdoor kon het vooropgelegde stappenplan van het vak project gebruiksgericht ontwerp niet gevolgd worden. Er zal dus gebruik gemaakt worden van AI om orde en structuur, renders zoals hierboven en mogelijke elektronica vooruit te helpen, het gebruik van AI wordt telkens nagelezen en kritisch bekeken.
+Door een zeer late pivot vanuit een ander project werd dit project uitgevoerd in een tijdsspan van 9 weken. Hierdoor kon het vooropgelegde stappenplan van het vak project gebruiksgericht ontwerp niet gevolgd worden. Er zal dus gebruik gemaakt worden van AI om orde en structuur, renders zoals hierboven en mogelijke elektronica vooruit te helpen, het gebruik van AI wordt telkens nagelezen en kritisch bekeken. Tijdens het ontwerptraject wordt alles op miro genoteerd, dit is een digitale whiteboard. Hierop werdt een tijdlijn opgesteld om voortgang wat te stuwen. Een nadeel hiervan is dat er minder itiratief nagedacht wordt, er wordt rap naar de volgende stap gekeken in plaats van terug te blikken naar de vorige.
 
 De 9 weken werden als volgt verdeeld:
 
