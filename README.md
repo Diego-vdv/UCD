@@ -118,7 +118,7 @@ Tijdens de interviews werd herhaaldelijk twijfel geuit over het gebruik van sens
 ### Conclusies en implicaties (design requirements en beslissingen)
   
 - Knoppen moeten duidelijk voelbaar zijn, met klikfeedback en geschikt voor gebruik met motorhandschoenen.
-- Ze worden het best geplaatst aan de linkerkant van het stuur voor gemakkelijke bediening.
+- Ze worden het best geplaatst aan de rechterkant van het stuur voor gemakkelijke bediening.
 - De interface moet eenvoudige symbolen en contrastrijke kleuren gebruiken voor leesbaarheid.
 - Emotiedetectie via sensoren is uitgesloten; het systeem gebruikt enkel manuele input.
 - Compatibiliteit met bestaande intercomsystemen is vereist voor auditieve meldingen.
@@ -186,22 +186,21 @@ Valideren van het finale prototype op gebruiksvriendelijkheid, plaatsing, en int
 
 ### Materiaal en methoden
 
-- Wizard-of-Oz tests
+- Wizard-of-Oz testing
 - Interviews
-- Plaatsingsoefening
-- BERT-evaluatie t.o.v. intercomsystemen
+- Plaatsingsoefening (knoppen en scherm)
+- BERT-evaluatie uiterlijk en gebruik
 
 ### Resultaten
 
-- Knoppen: goed voelbaar, maar kunnen groter of verder uit elkaar
-- Interface: LED’s goed voor signalering; gebruikers verwachten bevestiging
-- BERT-test: prototype werd als intuïtiever en minder DIY ervaren dan vorige versies
+
 
 ### Conclusies en implicaties (design requirements en beslissingen)
 
-- Plaatsing aan linkerstuurzijde is optimaal
-- Feedback moet meer visuele variatie hebben (kleur/textuur)
-- Suggestie voor confirmatieknop of tijdsgebonden bevestiging
+- Plaatsing aan rechterstuurzijde is optimaal
+- Knoppen zijn voldoende voelbaar, maar verbeterbaar in tactiele differentiatie
+- Suggestie voor extra confirmatieknop of tijdsgebonden bevestiging
+- Schermfeedback is duidelijk, maar meldingen mogen niet te veel de routevoorstelling belemmeren
 
 ---
 
@@ -211,9 +210,12 @@ Valideren van het finale prototype op gebruiksvriendelijkheid, plaatsing, en int
 
 ---
 
-## Kritische reflectie
-- Over SEM1 en SEM2
-- Over zowel het ontwerp zelf, de methodologie, de uitgevoerde testen en analyses, de gemaakte prototypes, als openstaande onderzoeksvragen (future research should focus on …)
+## To Do
+Doordat we een zeer kort designtraject afgelopen hebben zijn er dingen die we nog willen onderzoeken/ afwerken, de belangrijkste hiervan zijn:
+- Uitwerken routebeschrijving en het short-cut systeem voor achterliggers
+- Lay-out gps mototvriendelijk maken (mogelijkheid om vrienden te zien, ...)
+- Uitwerken verbinding tussen RevIt's (gebruiksvriendelijkheid, technologie, ...)
+- Uitwerken main body (scherm met leds in één body, elektronica, ...)
   
 ---
 
