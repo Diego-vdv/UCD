@@ -121,11 +121,32 @@ De 9 weken werden als volgt verdeeld:
 
 ### Doelstellingen
 
+Het doel van deze fase was het analyseren en vergelijken van verschillende fysieke inputknoppen met de focus op gebruiksgemak tijdens het motorrijden.
+
 ### Materiaal en methoden
+
+Vier knoptypes werden getest op een stuurmock-up. Respondenten moesten de knoppen beoordelen op:
+- Vorm en herkenbaarheid
+- Bedienbaarheid met handschoenen
+- Haptische feedback
+
+Interviews en observaties vormden de kern van de analyse.
 
 ### Resultaten
 
+- Rechthoekiege knoppen werden het snelst herkend.
+- Een voelbare klik werd als essentieel ervaren.
+- Kleine of vlakke knoppen zijn moeilijk te bedienen met handschoenen.
+- De knoppen moesten ondermekaar geplaatst worden
+
+> [!Note]
+> Hier afbeelding toevoegen van ranking resultaat
+
 ### Conclusies en implicaties (design requirements en beslissingen)
+
+- Vorm: vierkant/rechthoekig met klik- of veerfeedback
+- Plaatsing: duimhoogte, mogelijk uitbreidbaar naar tank
+- Volgende stap: feedback en resultaten samen gieten tot eind vorm voor develop 2
 
 ---
 
