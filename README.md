@@ -161,7 +161,7 @@ De testopzet werd geoptimaliseerd voor zowel fysieke als cognitieve evaluatie en
 Rechthoekige knoppen werden door de meeste respondenten het snelst herkend, dankzij hun duidelijke vorm. Een voelbare klik werd als essentieel beschouwd voor betrouwbare feedback tijdens het rijden. Kleine of vlakke knoppen bleken minder geschikt, vooral in combinatie met motorhandschoenen. De voorkeur ging uit naar een verticale plaatsing van de knoppen, zodat de duimbeweging natuurlijk en intuïtief blijft.
 
 <p align=center>  
-  <img src="fotos/Ranking_knoppen.png") alt=testlocatie width=50% />
+  <img src="fotos/Ranking_knoppen.png") alt=testlocatie width=75% />
 </p> 
 
 
