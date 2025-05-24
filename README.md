@@ -318,3 +318,4 @@ De belangrijkste hiervan zijn: het uitwerken van de routebeschrijving en het sho
 - [Figma Wave 3](https://www.figma.com/design/jczjBbefMMrLNKA9MCjokl/PGGO?node-id=0-1&t=pkmAj3ic0I2tv0EO-1)
 - [Figma Develop 1](https://www.figma.com/design/dB6rPs7raodgSTXBTbmTRY/Untitled?node-id=0-1&t=oCPwAQgY0166zUbN-1)
 - [Protopie Develop 2](https://cloud.protopie.io/p/2011223ff1d2769bc2ba3834?ui=true&scaleToFit=true&enableHotspotHints=true&cursorType=touch&mockup=true&bgColor=%23F5F5F5&bgImage=undefined&playSpeed=1)
+- [miro](https://miro.com/welcomeonboard/bmt5NjdxWHY3OGFRVVMwM2VGQk1rejRSblk0ZXRWeEM5WWxKQUlGcUsxZHIra2g5SjRkWmtGckZDazZLNFo5eWtZNUNuRVo2VVpNRDhUWUhmbUUvbWJYaXF3T1JYUUJSYko3eTZZdUVHdzdwS0h3K2lMZjI4SGkzRlVyY3hEMzdhWWluRVAxeXRuUUgwWDl3Mk1qRGVRPT0hdjE=?share_link_id=879587045387)
